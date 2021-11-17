@@ -31,31 +31,36 @@ public class AircraftPerformanceDatabase {
                 return found;
             }
 
-            AircraftPerformance loaded = null;
-            BM.start("AircraftPerformanceDatabase.load");
-            try {
-                loaded = load(icaoCode);
-            } catch (Exception e) {
-                logger.error("Unable to load aircraft performance for type " + icaoCode, e);
-            } finally {
-                BM.stop();
+            Optional<AircraftPerformance> loaded = load("apd", icaoCode);
+            if (!loaded.isPresent()) {
+                loaded = load("sbd", icaoCode);
+            }
+            if (!loaded.isPresent()) {
+                loaded = load("manual", icaoCode);
             }
 
-            Optional<AircraftPerformance> result = Optional.ofNullable(loaded);
             synchronized (data) {
-                data.put(icaoCode, result);
+                data.put(icaoCode, loaded);
             }
 
-            return result;
+            return loaded;
         } finally {
             BM.stop();
         }
     }
 
-    private static AircraftPerformance load(String icaoCode) throws IOException {
-        InputStream is = Class.class.getResourceAsStream("/apd/" + icaoCode + ".json");
-        String json = IOHelper.readInputStream(is);
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        return gson.fromJson(json, AircraftPerformance.class);
+    private static Optional<AircraftPerformance> load(String catalogue, String icaoCode) {
+        BM.start("AircraftPerformanceDatabase.load#" + catalogue);
+        try {
+            InputStream is = Class.class.getResourceAsStream("/" + catalogue + "/" + icaoCode + ".json");
+            String json = IOHelper.readInputStream(is);
+            Gson gson = new GsonBuilder().setPrettyPrinting().create();
+            return Optional.of(gson.fromJson(json, AircraftPerformance.class));
+        } catch (IOException e) {
+            logger.warn("Unable to load data for type {} from catalogue {}", icaoCode, catalogue);
+        } finally {
+            BM.stop();
+        }
+        return Optional.empty();
     }
 }

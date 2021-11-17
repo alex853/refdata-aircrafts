@@ -26,4 +26,10 @@ public class TestAircraftPerformanceDatabase {
         Optional<AircraftPerformance> abcd = AircraftPerformanceDatabase.getPerformance("ABCD");
         assertFalse(abcd.isPresent());
     }
+
+    @Test
+    public void test_existingInSbdOnly() {
+        Optional<AircraftPerformance> b789 = AircraftPerformanceDatabase.getPerformance("B789");
+        assertTrue(b789.isPresent());
+    }
 }
