@@ -52,7 +52,7 @@ public class AircraftPerformanceDatabase {
     private static Optional<AircraftPerformance> load(String catalogue, String icaoCode) {
         BM.start("AircraftPerformanceDatabase.load#" + catalogue);
         try {
-            InputStream is = Class.class.getResourceAsStream("/" + catalogue + "/" + icaoCode + ".json");
+            InputStream is = AircraftPerformanceDatabase.class.getResourceAsStream("/" + catalogue + "/" + icaoCode + ".json");
             String json = IOHelper.readInputStream(is);
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
             return Optional.of(gson.fromJson(json, AircraftPerformance.class));
