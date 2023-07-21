@@ -12,6 +12,7 @@ public class AircraftPerformance {
     private String icaoCode;
     private Integer cruiseTas;
     private Integer cruiseCeiling;
+    private Integer cruiseRange;
 
     public Integer getCruiseIasAtCruiseCeiling() {
         if (cruiseTas == null || cruiseCeiling == null) {
