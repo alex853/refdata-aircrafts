@@ -36,6 +36,6 @@ public class TestAircraftPerformanceDatabase {
     @Test
     public void test_maximumEndurance() {
         Optional<AircraftPerformance> a320 = AircraftPerformanceDatabase.getPerformance("A320");
-        assertEquals(2700/450, a320.get().getMaximumEndurance(), 0.1);
+        assertEquals(2700.0/450, a320.get().getMaximumEndurance(), 0.1);
     }
 }
