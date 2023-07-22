@@ -1,5 +1,6 @@
 {
   "icaoCode": "PC7",
   "cruiseTas": 230,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 1050
 }

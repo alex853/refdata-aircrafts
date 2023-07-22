@@ -1,5 +1,6 @@
 {
   "icaoCode": "H25C",
   "cruiseTas": 450,
-  "cruiseCeiling": 43000
+  "cruiseCeiling": 43000,
+  "maximumRange": 3100
 }

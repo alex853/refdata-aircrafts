@@ -1,5 +1,6 @@
 {
   "icaoCode": "E170",
   "cruiseTas": 460,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 2100
 }

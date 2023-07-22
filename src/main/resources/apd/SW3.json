@@ -1,5 +1,6 @@
 {
   "icaoCode": "SW3",
   "cruiseTas": 260,
-  "cruiseCeiling": 27000
+  "cruiseCeiling": 27000,
+  "maximumRange": 2200
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "T154",
   "cruiseTas": 475,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 1700
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "BE23",
   "cruiseTas": 120,
-  "cruiseCeiling": 13000
+  "cruiseCeiling": 13000,
+  "maximumRange": 600
 }

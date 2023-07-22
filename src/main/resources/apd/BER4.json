@@ -1,5 +1,6 @@
 {
   "icaoCode": "BER4",
   "cruiseTas": 380,
-  "cruiseCeiling": 31800
+  "cruiseCeiling": 31800,
+  "maximumRange": 2212
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "DR40",
   "cruiseTas": 140,
-  "cruiseCeiling": 15000
+  "cruiseCeiling": 15000,
+  "maximumRange": 450
 }

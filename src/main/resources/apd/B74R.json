@@ -1,5 +1,6 @@
 {
   "icaoCode": "B74R",
   "cruiseTas": 500,
-  "cruiseCeiling": 45000
+  "cruiseCeiling": 45000,
+  "maximumRange": 5000
 }

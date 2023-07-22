@@ -1,5 +1,6 @@
 {
   "icaoCode": "SB37",
   "cruiseTas": 480,
-  "cruiseCeiling": 59000
+  "cruiseCeiling": 59000,
+  "maximumRange": 1000
 }

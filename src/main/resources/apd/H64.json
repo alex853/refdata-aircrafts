@@ -1,5 +1,6 @@
 {
   "icaoCode": "H64",
   "cruiseTas": 145,
-  "cruiseCeiling": 21000
+  "cruiseCeiling": 21000,
+  "maximumRange": 257
 }

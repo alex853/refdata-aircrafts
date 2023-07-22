@@ -1,5 +1,6 @@
 {
   "icaoCode": "C25A",
   "cruiseTas": 418,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 1781
 }

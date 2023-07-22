@@ -1,5 +1,6 @@
 {
   "icaoCode": "B734",
   "cruiseTas": 430,
-  "cruiseCeiling": 37000
+  "cruiseCeiling": 37000,
+  "maximumRange": 2100
 }

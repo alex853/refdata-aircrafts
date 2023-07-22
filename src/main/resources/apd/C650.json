@@ -1,5 +1,6 @@
 {
   "icaoCode": "C650",
   "cruiseTas": 470,
-  "cruiseCeiling": 51000
+  "cruiseCeiling": 51000,
+  "maximumRange": 2200
 }

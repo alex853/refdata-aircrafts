@@ -1,5 +1,6 @@
 {
   "icaoCode": "C135",
   "cruiseTas": 450,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 3000
 }

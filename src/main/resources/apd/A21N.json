@@ -1,5 +1,6 @@
 {
   "icaoCode": "A21N",
   "cruiseTas": 450,
-  "cruiseCeiling": 39000
+  "cruiseCeiling": 39000,
+  "maximumRange": 4000
 }

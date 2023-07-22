@@ -1,5 +1,6 @@
 {
   "icaoCode": "IL96",
   "cruiseTas": 470,
-  "cruiseCeiling": 39000
+  "cruiseCeiling": 39000,
+  "maximumRange": 6900
 }

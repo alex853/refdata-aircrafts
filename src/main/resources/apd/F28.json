@@ -1,5 +1,6 @@
 {
   "icaoCode": "F28",
   "cruiseTas": 390,
-  "cruiseCeiling": 35000
+  "cruiseCeiling": 35000,
+  "maximumRange": 1600
 }

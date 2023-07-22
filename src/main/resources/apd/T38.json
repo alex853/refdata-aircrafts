@@ -1,5 +1,6 @@
 {
   "icaoCode": "T38",
   "cruiseTas": 450,
-  "cruiseCeiling": 50000
+  "cruiseCeiling": 50000,
+  "maximumRange": 950
 }

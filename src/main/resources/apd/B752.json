@@ -1,5 +1,6 @@
 {
   "icaoCode": "B752",
   "cruiseTas": 470,
-  "cruiseCeiling": 42000
+  "cruiseCeiling": 42000,
+  "maximumRange": 3900
 }

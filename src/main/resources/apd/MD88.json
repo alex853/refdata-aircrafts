@@ -1,5 +1,6 @@
 {
   "icaoCode": "MD88",
   "cruiseTas": 450,
-  "cruiseCeiling": 37000
+  "cruiseCeiling": 37000,
+  "maximumRange": 2055
 }

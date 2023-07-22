@@ -1,5 +1,6 @@
 {
   "icaoCode": "F35",
   "cruiseTas": 520,
-  "cruiseCeiling": 50000
+  "cruiseCeiling": 50000,
+  "maximumRange": 1500
 }

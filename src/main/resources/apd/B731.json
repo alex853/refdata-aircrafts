@@ -1,5 +1,6 @@
 {
   "icaoCode": "B731",
   "cruiseTas": 420,
-  "cruiseCeiling": 37000
+  "cruiseCeiling": 37000,
+  "maximumRange": 1500
 }

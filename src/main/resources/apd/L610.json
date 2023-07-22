@@ -1,5 +1,6 @@
 {
   "icaoCode": "L610",
   "cruiseTas": 220,
-  "cruiseCeiling": 23000
+  "cruiseCeiling": 23000,
+  "maximumRange": 1300
 }

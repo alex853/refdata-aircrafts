@@ -1,5 +1,6 @@
 {
   "icaoCode": "FA50",
   "cruiseTas": 480,
-  "cruiseCeiling": 49000
+  "cruiseCeiling": 49000,
+  "maximumRange": 3500
 }

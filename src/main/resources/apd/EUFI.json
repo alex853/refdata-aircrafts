@@ -1,5 +1,6 @@
 {
   "icaoCode": "EUFI",
   "cruiseTas": 480,
-  "cruiseCeiling": 65000
+  "cruiseCeiling": 65000,
+  "maximumRange": 1000
 }

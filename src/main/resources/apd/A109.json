@@ -1,5 +1,6 @@
 {
   "icaoCode": "A109",
   "cruiseTas": 140,
-  "cruiseCeiling": 1960000
+  "cruiseCeiling": 1960000,
+  "maximumRange": 521
 }

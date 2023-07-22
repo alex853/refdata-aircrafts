@@ -1,5 +1,6 @@
 {
   "icaoCode": "DH8C",
   "cruiseTas": 250,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 1000
 }

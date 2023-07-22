@@ -1,5 +1,6 @@
 {
   "icaoCode": "N262",
   "cruiseTas": 210,
-  "cruiseCeiling": 26000
+  "cruiseCeiling": 26000,
+  "maximumRange": 550
 }

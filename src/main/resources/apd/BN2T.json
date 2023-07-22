@@ -1,5 +1,6 @@
 {
   "icaoCode": "BN2T",
   "cruiseTas": 145,
-  "cruiseCeiling": 23000
+  "cruiseCeiling": 23000,
+  "maximumRange": 830
 }

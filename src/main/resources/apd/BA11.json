@@ -1,5 +1,6 @@
 {
   "icaoCode": "BA11",
   "cruiseTas": 425,
-  "cruiseCeiling": 35000
+  "cruiseCeiling": 35000,
+  "maximumRange": 1500
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "F900",
   "cruiseTas": 510,
-  "cruiseCeiling": 51000
+  "cruiseCeiling": 51000,
+  "maximumRange": 4500
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "FA20",
   "cruiseTas": 420,
-  "cruiseCeiling": 42000
+  "cruiseCeiling": 42000,
+  "maximumRange": 2300
 }

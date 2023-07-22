@@ -1,5 +1,6 @@
 {
   "icaoCode": "UH1",
   "cruiseTas": 110,
-  "cruiseCeiling": 19000
+  "cruiseCeiling": 19000,
+  "maximumRange": 275
 }

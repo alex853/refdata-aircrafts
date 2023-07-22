@@ -1,5 +1,6 @@
 {
   "icaoCode": "A30B",
   "cruiseTas": 470,
-  "cruiseCeiling": 35000
+  "cruiseCeiling": 35000,
+  "maximumRange": 3000
 }

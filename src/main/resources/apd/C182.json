@@ -1,5 +1,6 @@
 {
   "icaoCode": "C182",
   "cruiseTas": 140,
-  "cruiseCeiling": 18000
+  "cruiseCeiling": 18000,
+  "maximumRange": 550
 }

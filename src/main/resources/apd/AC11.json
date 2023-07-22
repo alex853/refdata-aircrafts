@@ -1,5 +1,6 @@
 {
   "icaoCode": "AC11",
   "cruiseTas": 150,
-  "cruiseCeiling": 16000
+  "cruiseCeiling": 16000,
+  "maximumRange": 750
 }

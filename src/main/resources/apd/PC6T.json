@@ -1,5 +1,6 @@
 {
   "icaoCode": "PC6T",
   "cruiseTas": 130,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 850
 }

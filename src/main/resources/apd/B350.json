@@ -1,5 +1,6 @@
 {
   "icaoCode": "B350",
   "cruiseTas": 300,
-  "cruiseCeiling": 35000
+  "cruiseCeiling": 35000,
+  "maximumRange": 1800
 }

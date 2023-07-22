@@ -1,5 +1,6 @@
 {
   "icaoCode": "TOBA",
   "cruiseTas": 100,
-  "cruiseCeiling": 13000
+  "cruiseCeiling": 13000,
+  "maximumRange": 530
 }

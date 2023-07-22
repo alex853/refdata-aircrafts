@@ -1,5 +1,6 @@
 {
   "icaoCode": "IL62",
   "cruiseTas": 460,
-  "cruiseCeiling": 39000
+  "cruiseCeiling": 39000,
+  "maximumRange": 5200
 }

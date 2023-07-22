@@ -1,5 +1,6 @@
 {
   "icaoCode": "CONC",
   "cruiseTas": 1500,
-  "cruiseCeiling": 60000
+  "cruiseCeiling": 60000,
+  "maximumRange": 3900
 }

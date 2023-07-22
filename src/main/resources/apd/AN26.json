@@ -1,5 +1,6 @@
 {
   "icaoCode": "AN26",
   "cruiseTas": 235,
-  "cruiseCeiling": 26000
+  "cruiseCeiling": 26000,
+  "maximumRange": 600
 }

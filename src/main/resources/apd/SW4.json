@@ -1,5 +1,6 @@
 {
   "icaoCode": "SW4",
   "cruiseTas": 270,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 575
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "AN28",
   "cruiseTas": 170,
-  "cruiseCeiling": 20000
+  "cruiseCeiling": 20000,
+  "maximumRange": 550
 }

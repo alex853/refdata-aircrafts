@@ -1,5 +1,6 @@
 {
   "icaoCode": "NIM",
   "cruiseTas": 420,
-  "cruiseCeiling": 42000
+  "cruiseCeiling": 42000,
+  "maximumRange": 4500
 }

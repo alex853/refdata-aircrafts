@@ -1,5 +1,6 @@
 {
   "icaoCode": "S61",
   "cruiseTas": 120,
-  "cruiseCeiling": 12500
+  "cruiseCeiling": 12500,
+  "maximumRange": 450
 }

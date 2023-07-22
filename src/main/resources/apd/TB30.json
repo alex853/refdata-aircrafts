@@ -1,5 +1,6 @@
 {
   "icaoCode": "TB30",
   "cruiseTas": 190,
-  "cruiseCeiling": 23000
+  "cruiseCeiling": 23000,
+  "maximumRange": 700
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "SU24",
   "cruiseTas": 500,
-  "cruiseCeiling": 36000
+  "cruiseCeiling": 36000,
+  "maximumRange": 1200
 }

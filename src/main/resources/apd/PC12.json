@@ -1,5 +1,6 @@
 {
   "icaoCode": "PC12",
   "cruiseTas": 270,
-  "cruiseCeiling": 30000
+  "cruiseCeiling": 30000,
+  "maximumRange": 2000
 }

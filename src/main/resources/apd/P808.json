@@ -1,5 +1,6 @@
 {
   "icaoCode": "P808",
   "cruiseTas": 420,
-  "cruiseCeiling": 45000
+  "cruiseCeiling": 45000,
+  "maximumRange": 1150
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "PC9",
   "cruiseTas": 300,
-  "cruiseCeiling": 38000
+  "cruiseCeiling": 38000,
+  "maximumRange": 860
 }

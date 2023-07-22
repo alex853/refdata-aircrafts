@@ -1,5 +1,6 @@
 {
   "icaoCode": "A310",
   "cruiseTas": 480,
-  "cruiseCeiling": 40000
+  "cruiseCeiling": 40000,
+  "maximumRange": 5100
 }

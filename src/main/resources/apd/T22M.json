@@ -1,5 +1,6 @@
 {
   "icaoCode": "T22M",
   "cruiseTas": 490,
-  "cruiseCeiling": 40000
+  "cruiseCeiling": 40000,
+  "maximumRange": 3800
 }

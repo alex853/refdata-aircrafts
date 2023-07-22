@@ -1,5 +1,6 @@
 {
   "icaoCode": "DC86",
   "cruiseTas": 510,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 5500
 }

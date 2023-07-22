@@ -1,5 +1,6 @@
 {
   "icaoCode": "AT72",
   "cruiseTas": 275,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 1500
 }

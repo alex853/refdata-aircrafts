@@ -1,5 +1,6 @@
 {
   "icaoCode": "D328",
   "cruiseTas": 310,
-  "cruiseCeiling": 31000
+  "cruiseCeiling": 31000,
+  "maximumRange": 1000
 }

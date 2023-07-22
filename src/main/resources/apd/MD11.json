@@ -1,5 +1,6 @@
 {
   "icaoCode": "MD11",
   "cruiseTas": 500,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 7100
 }

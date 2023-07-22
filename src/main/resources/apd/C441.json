@@ -1,5 +1,6 @@
 {
   "icaoCode": "C441",
   "cruiseTas": 280,
-  "cruiseCeiling": 31000
+  "cruiseCeiling": 31000,
+  "maximumRange": 1200
 }

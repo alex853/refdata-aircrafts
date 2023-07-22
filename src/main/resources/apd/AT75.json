@@ -1,5 +1,6 @@
 {
   "icaoCode": "AT75",
   "cruiseTas": 280,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 825
 }

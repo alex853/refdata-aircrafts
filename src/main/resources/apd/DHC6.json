@@ -1,5 +1,6 @@
 {
   "icaoCode": "DHC6",
   "cruiseTas": 160,
-  "cruiseCeiling": 26000
+  "cruiseCeiling": 26000,
+  "maximumRange": 900
 }

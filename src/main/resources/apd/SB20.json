@@ -1,5 +1,6 @@
 {
   "icaoCode": "SB20",
   "cruiseTas": 360,
-  "cruiseCeiling": 31000
+  "cruiseCeiling": 31000,
+  "maximumRange": 1200
 }

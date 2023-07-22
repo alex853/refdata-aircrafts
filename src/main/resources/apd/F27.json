@@ -1,5 +1,6 @@
 {
   "icaoCode": "F27",
   "cruiseTas": 240,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 1500
 }

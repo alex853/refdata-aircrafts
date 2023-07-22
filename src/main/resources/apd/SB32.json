@@ -1,5 +1,6 @@
 {
   "icaoCode": "SB32",
   "cruiseTas": 260,
-  "cruiseCeiling": 49200
+  "cruiseCeiling": 49200,
+  "maximumRange": 1078
 }

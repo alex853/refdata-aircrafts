@@ -1,5 +1,6 @@
 {
   "icaoCode": "TBM7",
   "cruiseTas": 290,
-  "cruiseCeiling": 30000
+  "cruiseCeiling": 30000,
+  "maximumRange": 900
 }

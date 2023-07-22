@@ -1,5 +1,6 @@
 {
   "icaoCode": "F406",
   "cruiseTas": 240,
-  "cruiseCeiling": 30000
+  "cruiseCeiling": 30000,
+  "maximumRange": 1000
 }

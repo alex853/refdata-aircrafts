@@ -1,5 +1,6 @@
 {
   "icaoCode": "MIR2",
   "cruiseTas": 505,
-  "cruiseCeiling": 54000
+  "cruiseCeiling": 54000,
+  "maximumRange": 1000
 }

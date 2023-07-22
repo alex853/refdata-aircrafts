@@ -1,5 +1,6 @@
 {
   "icaoCode": "PAY3",
   "cruiseTas": 280,
-  "cruiseCeiling": 35000
+  "cruiseCeiling": 35000,
+  "maximumRange": 2270
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "SF34",
   "cruiseTas": 250,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 930
 }

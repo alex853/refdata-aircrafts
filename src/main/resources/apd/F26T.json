@@ -1,5 +1,6 @@
 {
   "icaoCode": "F26T",
   "cruiseTas": 180,
-  "cruiseCeiling": 24000
+  "cruiseCeiling": 24000,
+  "maximumRange": 500
 }

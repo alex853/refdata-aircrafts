@@ -1,5 +1,6 @@
 {
   "icaoCode": "ATP",
   "cruiseTas": 266,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 1000
 }

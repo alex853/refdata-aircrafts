@@ -1,5 +1,6 @@
 {
   "icaoCode": "CN35",
   "cruiseTas": 210,
-  "cruiseCeiling": 26500
+  "cruiseCeiling": 26500,
+  "maximumRange": 2500
 }

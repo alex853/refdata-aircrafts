@@ -1,5 +1,6 @@
 {
   "icaoCode": "RALL",
   "cruiseTas": 120,
-  "cruiseCeiling": 11000
+  "cruiseCeiling": 11000,
+  "maximumRange": 700
 }

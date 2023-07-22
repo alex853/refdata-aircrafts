@@ -1,5 +1,6 @@
 {
   "icaoCode": "BE33",
   "cruiseTas": 160,
-  "cruiseCeiling": 17000
+  "cruiseCeiling": 17000,
+  "maximumRange": 700
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "CP23",
   "cruiseTas": 140,
-  "cruiseCeiling": 16000
+  "cruiseCeiling": 16000,
+  "maximumRange": 539
 }

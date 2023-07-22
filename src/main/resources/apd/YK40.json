@@ -1,5 +1,6 @@
 {
   "icaoCode": "YK40",
   "cruiseTas": 245,
-  "cruiseCeiling": 28000
+  "cruiseCeiling": 28000,
+  "maximumRange": 1000
 }

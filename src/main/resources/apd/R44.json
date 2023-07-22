@@ -1,5 +1,6 @@
 {
   "icaoCode": "R44",
   "cruiseTas": 110,
-  "cruiseCeiling": 14000
+  "cruiseCeiling": 14000,
+  "maximumRange": 300
 }

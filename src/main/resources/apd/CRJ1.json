@@ -1,5 +1,6 @@
 {
   "icaoCode": "CRJ1",
   "cruiseTas": 420,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 1800
 }

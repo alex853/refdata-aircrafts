@@ -1,5 +1,6 @@
 {
   "icaoCode": "C750",
   "cruiseTas": 550,
-  "cruiseCeiling": 51000
+  "cruiseCeiling": 51000,
+  "maximumRange": 3250
 }

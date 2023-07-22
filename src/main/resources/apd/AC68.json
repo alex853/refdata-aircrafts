@@ -1,5 +1,6 @@
 {
   "icaoCode": "AC68",
   "cruiseTas": 160,
-  "cruiseCeiling": 28000
+  "cruiseCeiling": 28000,
+  "maximumRange": 1200
 }

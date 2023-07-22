@@ -1,5 +1,6 @@
 {
   "icaoCode": "F2",
   "cruiseTas": 475,
-  "cruiseCeiling": 59000
+  "cruiseCeiling": 59000,
+  "maximumRange": 520
 }

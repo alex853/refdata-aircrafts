@@ -1,5 +1,6 @@
 {
   "icaoCode": "C150",
   "cruiseTas": 100,
-  "cruiseCeiling": 14000
+  "cruiseCeiling": 14000,
+  "maximumRange": 250
 }

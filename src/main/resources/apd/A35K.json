@@ -1,5 +1,6 @@
 {
   "icaoCode": "A35K",
   "cruiseTas": 490,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 8700
 }

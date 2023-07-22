@@ -1,5 +1,6 @@
 {
   "icaoCode": "AMXM",
   "cruiseTas": 420,
-  "cruiseCeiling": 43000
+  "cruiseCeiling": 43000,
+  "maximumRange": 800
 }

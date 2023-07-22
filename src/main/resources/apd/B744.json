@@ -1,5 +1,6 @@
 {
   "icaoCode": "B744",
   "cruiseTas": 510,
-  "cruiseCeiling": 45000
+  "cruiseCeiling": 45000,
+  "maximumRange": 7260
 }

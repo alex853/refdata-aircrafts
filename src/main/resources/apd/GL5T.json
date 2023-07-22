@@ -1,5 +1,6 @@
 {
   "icaoCode": "GL5T",
   "cruiseTas": 485,
-  "cruiseCeiling": 51000
+  "cruiseCeiling": 51000,
+  "maximumRange": 5200
 }

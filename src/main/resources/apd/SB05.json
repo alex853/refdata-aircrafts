@@ -1,5 +1,6 @@
 {
   "icaoCode": "SB05",
   "cruiseTas": 450,
-  "cruiseCeiling": 42000
+  "cruiseCeiling": 42000,
+  "maximumRange": 1200
 }

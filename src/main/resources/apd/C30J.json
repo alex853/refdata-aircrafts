@@ -1,5 +1,6 @@
 {
   "icaoCode": "C30J",
   "cruiseTas": 330,
-  "cruiseCeiling": 33000
+  "cruiseCeiling": 33000,
+  "maximumRange": 2835
 }

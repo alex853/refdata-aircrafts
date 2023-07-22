@@ -1,5 +1,6 @@
 {
   "icaoCode": "C310",
   "cruiseTas": 175,
-  "cruiseCeiling": 20000
+  "cruiseCeiling": 20000,
+  "maximumRange": 500
 }

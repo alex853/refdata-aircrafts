@@ -1,5 +1,6 @@
 {
   "icaoCode": "BE70",
   "cruiseTas": 180,
-  "cruiseCeiling": 30000
+  "cruiseCeiling": 30000,
+  "maximumRange": 755
 }

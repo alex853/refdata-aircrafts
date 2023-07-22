@@ -1,5 +1,6 @@
 {
   "icaoCode": "C56X",
   "cruiseTas": 430,
-  "cruiseCeiling": 45000
+  "cruiseCeiling": 45000,
+  "maximumRange": 2000
 }

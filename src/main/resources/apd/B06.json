@@ -1,5 +1,6 @@
 {
   "icaoCode": "B06",
   "cruiseTas": 120,
-  "cruiseCeiling": 13500
+  "cruiseCeiling": 13500,
+  "maximumRange": 374
 }

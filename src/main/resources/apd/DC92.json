@@ -1,5 +1,6 @@
 {
   "icaoCode": "DC92",
   "cruiseTas": 440,
-  "cruiseCeiling": 37000
+  "cruiseCeiling": 37000,
+  "maximumRange": 1605
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "A400",
   "cruiseTas": 422,
-  "cruiseCeiling": 40000
+  "cruiseCeiling": 40000,
+  "maximumRange": 1800
 }

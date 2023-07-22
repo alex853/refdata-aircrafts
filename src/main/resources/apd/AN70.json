@@ -1,5 +1,6 @@
 {
   "icaoCode": "AN70",
   "cruiseTas": 400,
-  "cruiseCeiling": 36000
+  "cruiseCeiling": 36000,
+  "maximumRange": 2600
 }

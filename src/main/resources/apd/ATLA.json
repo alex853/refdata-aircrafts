@@ -1,5 +1,6 @@
 {
   "icaoCode": "ATLA",
   "cruiseTas": 275,
-  "cruiseCeiling": 32000
+  "cruiseCeiling": 32000,
+  "maximumRange": 2200
 }

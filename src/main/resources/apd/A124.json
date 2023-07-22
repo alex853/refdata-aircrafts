@@ -1,5 +1,6 @@
 {
   "icaoCode": "A124",
   "cruiseTas": 430,
-  "cruiseCeiling": 39000
+  "cruiseCeiling": 39000,
+  "maximumRange": 3200
 }

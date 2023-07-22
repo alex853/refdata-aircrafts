@@ -1,5 +1,6 @@
 {
   "icaoCode": "EH10",
   "cruiseTas": 150,
-  "cruiseCeiling": 15000
+  "cruiseCeiling": 15000,
+  "maximumRange": 570
 }

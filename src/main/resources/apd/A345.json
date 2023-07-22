@@ -1,5 +1,6 @@
 {
   "icaoCode": "A345",
   "cruiseTas": 480,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 8800
 }

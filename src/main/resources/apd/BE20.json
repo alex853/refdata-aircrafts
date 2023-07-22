@@ -1,5 +1,6 @@
 {
   "icaoCode": "BE20",
   "cruiseTas": 260,
-  "cruiseCeiling": 35000
+  "cruiseCeiling": 35000,
+  "maximumRange": 1600
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "F18",
   "cruiseTas": 495,
-  "cruiseCeiling": 50000
+  "cruiseCeiling": 50000,
+  "maximumRange": 1700
 }

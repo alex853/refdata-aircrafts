@@ -1,5 +1,6 @@
 {
   "icaoCode": "P3",
   "cruiseTas": 330,
-  "cruiseCeiling": 28000
+  "cruiseCeiling": 28000,
+  "maximumRange": 3800
 }

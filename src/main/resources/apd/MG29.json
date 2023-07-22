@@ -1,5 +1,6 @@
 {
   "icaoCode": "MG29",
   "cruiseTas": 420,
-  "cruiseCeiling": 60000
+  "cruiseCeiling": 60000,
+  "maximumRange": 700
 }

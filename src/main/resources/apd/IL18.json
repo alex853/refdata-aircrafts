@@ -1,5 +1,6 @@
 {
   "icaoCode": "IL18",
   "cruiseTas": 350,
-  "cruiseCeiling": 38000
+  "cruiseCeiling": 38000,
+  "maximumRange": 3500
 }

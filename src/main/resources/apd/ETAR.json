@@ -1,5 +1,6 @@
 {
   "icaoCode": "ETAR",
   "cruiseTas": 590,
-  "cruiseCeiling": 50000
+  "cruiseCeiling": 50000,
+  "maximumRange": 1800
 }

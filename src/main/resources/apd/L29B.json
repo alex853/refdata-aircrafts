@@ -1,5 +1,6 @@
 {
   "icaoCode": "L29B",
   "cruiseTas": 440,
-  "cruiseCeiling": 43000
+  "cruiseCeiling": 43000,
+  "maximumRange": 2400
 }

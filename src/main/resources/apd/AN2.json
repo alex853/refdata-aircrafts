@@ -1,5 +1,6 @@
 {
   "icaoCode": "AN2",
   "cruiseTas": 100,
-  "cruiseCeiling": 15000
+  "cruiseCeiling": 15000,
+  "maximumRange": 500
 }

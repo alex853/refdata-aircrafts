@@ -1,5 +1,6 @@
 {
   "icaoCode": "KA50",
   "cruiseTas": 146,
-  "cruiseCeiling": 18000
+  "cruiseCeiling": 18000,
+  "maximumRange": 335
 }

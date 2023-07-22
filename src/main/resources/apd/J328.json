@@ -1,5 +1,6 @@
 {
   "icaoCode": "J328",
   "cruiseTas": 350,
-  "cruiseCeiling": 35000
+  "cruiseCeiling": 35000,
+  "maximumRange": 2000
 }

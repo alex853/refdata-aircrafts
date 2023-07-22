@@ -1,5 +1,6 @@
 {
   "icaoCode": "B430",
   "cruiseTas": 130,
-  "cruiseCeiling": 14600
+  "cruiseCeiling": 14600,
+  "maximumRange": 324
 }

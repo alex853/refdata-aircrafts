@@ -1,5 +1,6 @@
 {
   "icaoCode": "SH33",
   "cruiseTas": 180,
-  "cruiseCeiling": 22000
+  "cruiseCeiling": 22000,
+  "maximumRange": 1000
 }

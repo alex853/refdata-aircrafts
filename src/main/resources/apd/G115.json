@@ -1,5 +1,6 @@
 {
   "icaoCode": "G115",
   "cruiseTas": 130,
-  "cruiseCeiling": 17000
+  "cruiseCeiling": 17000,
+  "maximumRange": 600
 }

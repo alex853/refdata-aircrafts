@@ -1,5 +1,6 @@
 {
   "icaoCode": "C130",
   "cruiseTas": 290,
-  "cruiseCeiling": 30000
+  "cruiseCeiling": 30000,
+  "maximumRange": 2700
 }

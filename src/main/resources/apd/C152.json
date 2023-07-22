@@ -1,5 +1,6 @@
 {
   "icaoCode": "C152",
   "cruiseTas": 100,
-  "cruiseCeiling": 14700
+  "cruiseCeiling": 14700,
+  "maximumRange": 315
 }

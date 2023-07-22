@@ -1,5 +1,6 @@
 {
   "icaoCode": "B741",
   "cruiseTas": 500,
-  "cruiseCeiling": 45000
+  "cruiseCeiling": 45000,
+  "maximumRange": 5290
 }

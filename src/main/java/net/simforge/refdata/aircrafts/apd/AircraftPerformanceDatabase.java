@@ -33,6 +33,9 @@ public class AircraftPerformanceDatabase {
 
             Optional<AircraftPerformance> loaded = load("apd", icaoCode);
             if (!loaded.isPresent()) {
+                loaded = load("doc8643", icaoCode);
+            }
+            if (!loaded.isPresent()) {
                 loaded = load("sbd", icaoCode);
             }
             if (!loaded.isPresent()) {

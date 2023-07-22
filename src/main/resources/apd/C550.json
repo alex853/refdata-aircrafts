@@ -1,5 +1,6 @@
 {
   "icaoCode": "C550",
   "cruiseTas": 360,
-  "cruiseCeiling": 43000
+  "cruiseCeiling": 43000,
+  "maximumRange": 1900
 }

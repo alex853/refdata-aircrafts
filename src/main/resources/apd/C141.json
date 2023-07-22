@@ -1,5 +1,6 @@
 {
   "icaoCode": "C141",
   "cruiseTas": 430,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 2500
 }

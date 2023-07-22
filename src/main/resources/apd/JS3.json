@@ -1,5 +1,6 @@
 {
   "icaoCode": "JS3",
   "cruiseTas": 240,
-  "cruiseCeiling": 29000
+  "cruiseCeiling": 29000,
+  "maximumRange": 1920
 }

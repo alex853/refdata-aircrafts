@@ -1,5 +1,6 @@
 {
   "icaoCode": "MI8",
   "cruiseTas": 120,
-  "cruiseCeiling": 14500
+  "cruiseCeiling": 14500,
+  "maximumRange": 240
 }

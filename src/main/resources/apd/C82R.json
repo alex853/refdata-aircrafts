@@ -1,5 +1,6 @@
 {
   "icaoCode": "C82R",
   "cruiseTas": 140,
-  "cruiseCeiling": 18000
+  "cruiseCeiling": 18000,
+  "maximumRange": 800
 }

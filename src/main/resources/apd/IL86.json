@@ -1,5 +1,6 @@
 {
   "icaoCode": "IL86",
   "cruiseTas": 490,
-  "cruiseCeiling": 37000
+  "cruiseCeiling": 37000,
+  "maximumRange": 2000
 }

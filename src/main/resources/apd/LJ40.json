@@ -1,5 +1,6 @@
 {
   "icaoCode": "LJ40",
   "cruiseTas": 450,
-  "cruiseCeiling": 51000
+  "cruiseCeiling": 51000,
+  "maximumRange": 1692
 }

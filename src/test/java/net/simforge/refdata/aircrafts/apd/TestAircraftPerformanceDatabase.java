@@ -28,8 +28,14 @@ public class TestAircraftPerformanceDatabase {
     }
 
     @Test
-    public void test_existingInSbdOnly() {
+    public void test_existingInDoc8643Only() {
         Optional<AircraftPerformance> b789 = AircraftPerformanceDatabase.getPerformance("B789");
         assertTrue(b789.isPresent());
+    }
+
+    @Test
+    public void test_maximumEndurance() {
+        Optional<AircraftPerformance> a320 = AircraftPerformanceDatabase.getPerformance("A320");
+        assertEquals(2700/450, a320.get().getMaximumEndurance(), 0.1);
     }
 }

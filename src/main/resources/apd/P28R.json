@@ -1,5 +1,6 @@
 {
   "icaoCode": "P28R",
   "cruiseTas": 140,
-  "cruiseCeiling": 12000
+  "cruiseCeiling": 12000,
+  "maximumRange": 700
 }

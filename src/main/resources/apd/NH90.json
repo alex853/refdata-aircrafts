@@ -1,5 +1,6 @@
 {
   "icaoCode": "NH90",
   "cruiseTas": 150,
-  "cruiseCeiling": 20000
+  "cruiseCeiling": 20000,
+  "maximumRange": 497
 }

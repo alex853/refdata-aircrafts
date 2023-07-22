@@ -1,5 +1,6 @@
 {
   "icaoCode": "K35E",
   "cruiseTas": 440,
-  "cruiseCeiling": 36000
+  "cruiseCeiling": 36000,
+  "maximumRange": 1400
 }

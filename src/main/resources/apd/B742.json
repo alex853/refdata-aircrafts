@@ -1,5 +1,6 @@
 {
   "icaoCode": "B742",
   "cruiseTas": 495,
-  "cruiseCeiling": 45000
+  "cruiseCeiling": 45000,
+  "maximumRange": 6857
 }

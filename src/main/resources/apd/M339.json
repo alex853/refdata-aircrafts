@@ -1,5 +1,6 @@
 {
   "icaoCode": "M339",
   "cruiseTas": 350,
-  "cruiseCeiling": 45000
+  "cruiseCeiling": 45000,
+  "maximumRange": 1050
 }

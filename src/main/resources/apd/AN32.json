@@ -1,5 +1,6 @@
 {
   "icaoCode": "AN32",
   "cruiseTas": 250,
-  "cruiseCeiling": 30000
+  "cruiseCeiling": 30000,
+  "maximumRange": 900
 }

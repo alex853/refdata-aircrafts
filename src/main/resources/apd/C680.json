@@ -1,5 +1,6 @@
 {
   "icaoCode": "C680",
   "cruiseTas": 460,
-  "cruiseCeiling": 47000
+  "cruiseCeiling": 47000,
+  "maximumRange": 2800
 }

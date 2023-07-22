@@ -1,5 +1,6 @@
 {
   "icaoCode": "DH8D",
   "cruiseTas": 360,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 1300
 }

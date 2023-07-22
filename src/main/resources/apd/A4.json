@@ -1,5 +1,6 @@
 {
   "icaoCode": "A4",
   "cruiseTas": 580,
-  "cruiseCeiling": 42000
+  "cruiseCeiling": 42000,
+  "maximumRange": 1700
 }

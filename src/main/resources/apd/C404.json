@@ -1,5 +1,6 @@
 {
   "icaoCode": "C404",
   "cruiseTas": 220,
-  "cruiseCeiling": 26000
+  "cruiseCeiling": 26000,
+  "maximumRange": 550
 }

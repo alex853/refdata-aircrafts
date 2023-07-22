@@ -1,5 +1,6 @@
 {
   "icaoCode": "H66",
   "cruiseTas": 165,
-  "cruiseCeiling": 15000
+  "cruiseCeiling": 15000,
+  "maximumRange": 262
 }

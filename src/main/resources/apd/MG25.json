@@ -1,5 +1,6 @@
 {
   "icaoCode": "MG25",
   "cruiseTas": 230,
-  "cruiseCeiling": 68000
+  "cruiseCeiling": 68000,
+  "maximumRange": 1390
 }

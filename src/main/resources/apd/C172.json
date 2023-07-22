@@ -1,5 +1,6 @@
 {
   "icaoCode": "C172",
   "cruiseTas": 115,
-  "cruiseCeiling": 13000
+  "cruiseCeiling": 13000,
+  "maximumRange": 430
 }

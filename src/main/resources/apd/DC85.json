@@ -1,5 +1,6 @@
 {
   "icaoCode": "DC85",
   "cruiseTas": 465,
-  "cruiseCeiling": 36000
+  "cruiseCeiling": 36000,
+  "maximumRange": 4900
 }

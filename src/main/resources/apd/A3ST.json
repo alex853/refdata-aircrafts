@@ -1,5 +1,6 @@
 {
   "icaoCode": "A3ST",
   "cruiseTas": 400,
-  "cruiseCeiling": 31000
+  "cruiseCeiling": 31000,
+  "maximumRange": 2500
 }

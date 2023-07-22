@@ -1,5 +1,6 @@
 {
   "icaoCode": "PA23",
   "cruiseTas": 160,
-  "cruiseCeiling": 19000
+  "cruiseCeiling": 19000,
+  "maximumRange": 780
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "PRM1",
   "cruiseTas": 450,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 1500
 }

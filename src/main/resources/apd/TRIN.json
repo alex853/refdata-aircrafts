@@ -1,5 +1,6 @@
 {
   "icaoCode": "TRIN",
   "cruiseTas": 140,
-  "cruiseCeiling": 20000
+  "cruiseCeiling": 20000,
+  "maximumRange": 900
 }

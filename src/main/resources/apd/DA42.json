@@ -1,5 +1,6 @@
 {
   "icaoCode": "DA42",
   "cruiseTas": 180,
-  "cruiseCeiling": 18000
+  "cruiseCeiling": 18000,
+  "maximumRange": 1061
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "LJ35",
   "cruiseTas": 440,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 2100
 }

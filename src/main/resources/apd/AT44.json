@@ -1,5 +1,6 @@
 {
   "icaoCode": "AT44",
   "cruiseTas": 260,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 1700
 }

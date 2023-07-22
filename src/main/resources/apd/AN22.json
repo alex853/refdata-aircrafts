@@ -1,5 +1,6 @@
 {
   "icaoCode": "AN22",
   "cruiseTas": 350,
-  "cruiseCeiling": 32800
+  "cruiseCeiling": 32800,
+  "maximumRange": 3500
 }

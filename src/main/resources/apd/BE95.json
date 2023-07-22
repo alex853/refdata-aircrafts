@@ -1,5 +1,6 @@
 {
   "icaoCode": "BE95",
   "cruiseTas": 170,
-  "cruiseCeiling": 18000
+  "cruiseCeiling": 18000,
+  "maximumRange": 1010
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "SU17",
   "cruiseTas": 550,
-  "cruiseCeiling": 47000
+  "cruiseCeiling": 47000,
+  "maximumRange": 1300
 }

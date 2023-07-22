@@ -1,5 +1,6 @@
 {
   "icaoCode": "M20T",
   "cruiseTas": 200,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 1000
 }

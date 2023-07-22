@@ -1,5 +1,6 @@
 {
   "icaoCode": "LJ55",
   "cruiseTas": 400,
-  "cruiseCeiling": 51000
+  "cruiseCeiling": 51000,
+  "maximumRange": 2500
 }

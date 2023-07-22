@@ -1,5 +1,6 @@
 {
   "icaoCode": "A359",
   "cruiseTas": 490,
-  "cruiseCeiling": 43000
+  "cruiseCeiling": 43000,
+  "maximumRange": 8100
 }

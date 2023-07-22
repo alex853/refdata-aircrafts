@@ -1,5 +1,6 @@
 {
   "icaoCode": "T134",
   "cruiseTas": 400,
-  "cruiseCeiling": 39000
+  "cruiseCeiling": 39000,
+  "maximumRange": 1025
 }

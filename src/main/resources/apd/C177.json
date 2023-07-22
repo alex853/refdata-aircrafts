@@ -1,5 +1,6 @@
 {
   "icaoCode": "C177",
   "cruiseTas": 115,
-  "cruiseCeiling": 12000
+  "cruiseCeiling": 12000,
+  "maximumRange": 590
 }

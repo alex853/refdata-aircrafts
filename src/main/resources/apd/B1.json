@@ -1,5 +1,6 @@
 {
   "icaoCode": "B1",
   "cruiseTas": 440,
-  "cruiseCeiling": 50000
+  "cruiseCeiling": 50000,
+  "maximumRange": 6500
 }

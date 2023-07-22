@@ -1,5 +1,6 @@
 {
   "icaoCode": "M20P",
   "cruiseTas": 237,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 1445
 }

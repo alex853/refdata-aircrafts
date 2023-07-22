@@ -1,5 +1,6 @@
 {
   "icaoCode": "A306",
   "cruiseTas": 470,
-  "cruiseCeiling": 37000
+  "cruiseCeiling": 37000,
+  "maximumRange": 4150
 }

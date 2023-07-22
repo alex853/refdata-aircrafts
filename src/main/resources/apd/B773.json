@@ -1,5 +1,6 @@
 {
   "icaoCode": "B773",
   "cruiseTas": 490,
-  "cruiseCeiling": 43000
+  "cruiseCeiling": 43000,
+  "maximumRange": 5955
 }

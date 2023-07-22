@@ -1,5 +1,6 @@
 {
   "icaoCode": "B762",
   "cruiseTas": 470,
-  "cruiseCeiling": 45000
+  "cruiseCeiling": 45000,
+  "maximumRange": 6600
 }

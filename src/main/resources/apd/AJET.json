@@ -1,5 +1,6 @@
 {
   "icaoCode": "AJET",
   "cruiseTas": 500,
-  "cruiseCeiling": 48000
+  "cruiseCeiling": 48000,
+  "maximumRange": 1200
 }

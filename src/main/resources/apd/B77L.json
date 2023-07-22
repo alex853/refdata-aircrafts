@@ -1,5 +1,6 @@
 {
   "icaoCode": "B77L",
   "cruiseTas": 490,
-  "cruiseCeiling": 43100
+  "cruiseCeiling": 43100,
+  "maximumRange": 9380
 }

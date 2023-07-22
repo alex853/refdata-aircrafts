@@ -1,5 +1,6 @@
 {
   "icaoCode": "G222",
   "cruiseTas": 240,
-  "cruiseCeiling": 25000
+  "cruiseCeiling": 25000,
+  "maximumRange": 2500
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "M18",
   "cruiseTas": 100,
-  "cruiseCeiling": 21000
+  "cruiseCeiling": 21000,
+  "maximumRange": 450
 }

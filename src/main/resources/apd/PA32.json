@@ -1,5 +1,6 @@
 {
   "icaoCode": "PA32",
   "cruiseTas": 150,
-  "cruiseCeiling": 16000
+  "cruiseCeiling": 16000,
+  "maximumRange": 700
 }

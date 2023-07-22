@@ -1,5 +1,6 @@
 {
   "icaoCode": "C340",
   "cruiseTas": 210,
-  "cruiseCeiling": 26500
+  "cruiseCeiling": 26500,
+  "maximumRange": 1200
 }

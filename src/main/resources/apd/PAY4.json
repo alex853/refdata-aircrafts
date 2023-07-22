@@ -1,5 +1,6 @@
 {
   "icaoCode": "PAY4",
   "cruiseTas": 360,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 1800
 }

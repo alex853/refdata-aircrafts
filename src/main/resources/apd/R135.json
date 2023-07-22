@@ -1,5 +1,6 @@
 {
   "icaoCode": "R135",
   "cruiseTas": 480,
-  "cruiseCeiling": 50000
+  "cruiseCeiling": 50000,
+  "maximumRange": 3000
 }

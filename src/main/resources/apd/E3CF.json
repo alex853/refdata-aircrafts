@@ -1,5 +1,6 @@
 {
   "icaoCode": "E3CF",
   "cruiseTas": 420,
-  "cruiseCeiling": 43000
+  "cruiseCeiling": 43000,
+  "maximumRange": 5000
 }

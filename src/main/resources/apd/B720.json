@@ -1,5 +1,6 @@
 {
   "icaoCode": "B720",
   "cruiseTas": 480,
-  "cruiseCeiling": 39000
+  "cruiseCeiling": 39000,
+  "maximumRange": 3600
 }

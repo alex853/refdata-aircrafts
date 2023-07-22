@@ -1,5 +1,6 @@
 {
   "icaoCode": "BDOG",
   "cruiseTas": 110,
-  "cruiseCeiling": 17000
+  "cruiseCeiling": 17000,
+  "maximumRange": 540
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "F16",
   "cruiseTas": 480,
-  "cruiseCeiling": 50000
+  "cruiseCeiling": 50000,
+  "maximumRange": 2000
 }

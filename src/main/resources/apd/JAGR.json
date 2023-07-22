@@ -1,5 +1,6 @@
 {
   "icaoCode": "JAGR",
   "cruiseTas": 480,
-  "cruiseCeiling": 45000
+  "cruiseCeiling": 45000,
+  "maximumRange": 1400
 }

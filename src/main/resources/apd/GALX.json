@@ -1,5 +1,6 @@
 {
   "icaoCode": "GALX",
   "cruiseTas": 470,
-  "cruiseCeiling": 45000
+  "cruiseCeiling": 45000,
+  "maximumRange": 3300
 }

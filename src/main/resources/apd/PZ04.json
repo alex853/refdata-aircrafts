@@ -1,5 +1,6 @@
 {
   "icaoCode": "PZ04",
   "cruiseTas": 80,
-  "cruiseCeiling": 13000
+  "cruiseCeiling": 13000,
+  "maximumRange": 275
 }

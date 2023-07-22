@@ -1,5 +1,6 @@
 {
   "icaoCode": "MRF1",
   "cruiseTas": 525,
-  "cruiseCeiling": 66000
+  "cruiseCeiling": 66000,
+  "maximumRange": 1000
 }

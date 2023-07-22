@@ -1,5 +1,6 @@
 {
   "icaoCode": "F70",
   "cruiseTas": 430,
-  "cruiseCeiling": 35000
+  "cruiseCeiling": 35000,
+  "maximumRange": 1100
 }

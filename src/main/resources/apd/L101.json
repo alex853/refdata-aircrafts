@@ -1,5 +1,6 @@
 {
   "icaoCode": "L101",
   "cruiseTas": 485,
-  "cruiseCeiling": 36000
+  "cruiseCeiling": 36000,
+  "maximumRange": 4600
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "C206",
   "cruiseTas": 140,
-  "cruiseCeiling": 17000
+  "cruiseCeiling": 17000,
+  "maximumRange": 560
 }

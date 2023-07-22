@@ -1,5 +1,6 @@
 {
   "icaoCode": "A332",
   "cruiseTas": 470,
-  "cruiseCeiling": 41000
+  "cruiseCeiling": 41000,
+  "maximumRange": 6750
 }

@@ -1,5 +1,6 @@
 {
   "icaoCode": "B772",
   "cruiseTas": 480,
-  "cruiseCeiling": 43000
+  "cruiseCeiling": 43000,
+  "maximumRange": 5210
 }
