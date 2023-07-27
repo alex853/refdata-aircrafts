@@ -38,4 +38,11 @@ public class TestAircraftPerformanceDatabase {
         Optional<AircraftPerformance> a320 = AircraftPerformanceDatabase.getPerformance("A320");
         assertEquals(2700.0/450, a320.get().getMaximumEndurance(), 0.1);
     }
+
+    @Test
+    public void test_remappingA330toA333() {
+        Optional<AircraftPerformance> a330 = AircraftPerformanceDatabase.getPerformance("A330");
+        assertTrue(a330.isPresent());
+        assertEquals("A333", a330.get().getIcaoCode());
+    }
 }
