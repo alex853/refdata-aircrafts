@@ -1,5 +1,6 @@
 {
   "icaoCode": "F22",
+  "cruiseTas": 800,
   "cruiseCeiling": 30000,
   "maximumRange": 1500
 }

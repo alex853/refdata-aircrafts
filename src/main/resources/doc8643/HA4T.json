@@ -1,5 +1,6 @@
 {
   "icaoCode": "HA4T",
+  "cruiseTas": 484,
   "cruiseCeiling": 35000,
   "maximumRange": 3400
 }

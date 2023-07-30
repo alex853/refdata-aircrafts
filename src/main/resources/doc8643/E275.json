@@ -1,5 +1,6 @@
 {
   "icaoCode": "E275",
+  "cruiseTas": 447,
   "cruiseCeiling": 41000,
   "maximumRange": 2000
 }
