@@ -1,6 +1,10 @@
 {
   "icaoCode": "D228",
+  "takeoffV2Ias": 95,
+  "climbToFL240Rate": 700,
   "cruiseTas": 210,
   "cruiseCeiling": 28000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 800,
+  "landingVatIas": 85
 }

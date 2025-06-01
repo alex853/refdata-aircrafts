@@ -1,6 +1,10 @@
 {
   "icaoCode": "F100",
+  "takeoffV2Ias": 135,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 405,
   "cruiseCeiling": 35000,
-  "maximumRange": 3100
+  "maximumRange": 3100,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 130
 }

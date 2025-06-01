@@ -1,6 +1,10 @@
 {
   "icaoCode": "G150",
+  "takeoffV2Ias": 115,
+  "climbToFL240Rate": 2500,
   "cruiseTas": 460,
   "cruiseCeiling": 45000,
-  "maximumRange": 3000
+  "maximumRange": 3000,
+  "descentToFL100Rate": 2400,
+  "landingVatIas": 130
 }

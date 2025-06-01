@@ -1,6 +1,10 @@
 {
   "icaoCode": "A310",
+  "takeoffV2Ias": 160,
+  "climbToFL240Rate": 2800,
   "cruiseTas": 480,
   "cruiseCeiling": 40000,
-  "maximumRange": 5100
+  "maximumRange": 5100,
+  "descentToFL100Rate": 2000,
+  "landingVatIas": 139
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "SBR2",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 450,
   "cruiseCeiling": 45000,
-  "maximumRange": 2400
+  "maximumRange": 2400,
+  "descentToFL100Rate": 2000,
+  "landingVatIas": 140
 }

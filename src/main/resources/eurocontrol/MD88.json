@@ -1,6 +1,10 @@
 {
   "icaoCode": "MD88",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 2200,
   "cruiseTas": 450,
   "cruiseCeiling": 37000,
-  "maximumRange": 2055
+  "maximumRange": 2055,
+  "descentToFL100Rate": 2300,
+  "landingVatIas": 130
 }

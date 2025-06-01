@@ -1,6 +1,10 @@
 {
   "icaoCode": "ASTR",
+  "takeoffV2Ias": 130,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 470,
   "cruiseCeiling": 45000,
-  "maximumRange": 2500
+  "maximumRange": 2500,
+  "descentToFL100Rate": 4000,
+  "landingVatIas": 120
 }

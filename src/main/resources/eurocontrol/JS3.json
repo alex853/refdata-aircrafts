@@ -1,6 +1,10 @@
 {
   "icaoCode": "JS3",
+  "takeoffV2Ias": 115,
+  "climbToFL240Rate": 500,
   "cruiseTas": 240,
   "cruiseCeiling": 29000,
-  "maximumRange": 1920
+  "maximumRange": 1920,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 112
 }

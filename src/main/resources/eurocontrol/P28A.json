@@ -1,6 +1,8 @@
 {
   "icaoCode": "P28A",
+  "takeoffV2Ias": 65,
   "cruiseTas": 110,
   "cruiseCeiling": 12000,
-  "maximumRange": 500
+  "maximumRange": 500,
+  "landingVatIas": 65
 }

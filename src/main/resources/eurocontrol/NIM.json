@@ -1,6 +1,10 @@
 {
   "icaoCode": "NIM",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 1200,
   "cruiseTas": 420,
   "cruiseCeiling": 42000,
-  "maximumRange": 4500
+  "maximumRange": 4500,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 150
 }

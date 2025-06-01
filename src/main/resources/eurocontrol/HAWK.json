@@ -1,6 +1,10 @@
 {
   "icaoCode": "HAWK",
+  "takeoffV2Ias": 115,
+  "climbToFL240Rate": 5000,
   "cruiseTas": 420,
   "cruiseCeiling": 50000,
-  "maximumRange": 1300
+  "maximumRange": 1300,
+  "descentToFL100Rate": 7000,
+  "landingVatIas": 125
 }

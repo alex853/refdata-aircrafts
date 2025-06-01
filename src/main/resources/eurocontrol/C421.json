@@ -1,6 +1,10 @@
 {
   "icaoCode": "C421",
+  "takeoffV2Ias": 100,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 200,
   "cruiseCeiling": 31000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 1000,
+  "landingVatIas": 95
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "BE76",
+  "takeoffV2Ias": 85,
+  "climbToFL240Rate": 800,
   "cruiseTas": 140,
   "cruiseCeiling": 20000,
-  "maximumRange": 750
+  "maximumRange": 750,
+  "descentToFL100Rate": 800,
+  "landingVatIas": 85
 }

@@ -1,6 +1,8 @@
 {
   "icaoCode": "C210",
+  "takeoffV2Ias": 70,
   "cruiseTas": 170,
   "cruiseCeiling": 27000,
-  "maximumRange": 800
+  "maximumRange": 800,
+  "landingVatIas": 75
 }

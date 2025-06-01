@@ -1,6 +1,10 @@
 {
   "icaoCode": "T154",
+  "takeoffV2Ias": 150,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 475,
   "cruiseCeiling": 41000,
-  "maximumRange": 1700
+  "maximumRange": 1700,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 130
 }

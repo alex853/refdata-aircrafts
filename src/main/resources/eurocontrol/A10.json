@@ -1,6 +1,10 @@
 {
   "icaoCode": "A10",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 2400,
   "cruiseTas": 300,
   "cruiseCeiling": 34000,
-  "maximumRange": 540
+  "maximumRange": 540,
+  "descentToFL100Rate": 5000,
+  "landingVatIas": 140
 }

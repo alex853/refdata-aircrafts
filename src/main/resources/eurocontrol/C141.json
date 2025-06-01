@@ -1,6 +1,10 @@
 {
   "icaoCode": "C141",
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 430,
   "cruiseCeiling": 41000,
-  "maximumRange": 2500
+  "maximumRange": 2500,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 140
 }

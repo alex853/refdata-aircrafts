@@ -1,6 +1,10 @@
 {
   "icaoCode": "SU17",
+  "takeoffV2Ias": 150,
+  "climbToFL240Rate": 20000,
   "cruiseTas": 550,
   "cruiseCeiling": 47000,
-  "maximumRange": 1300
+  "maximumRange": 1300,
+  "descentToFL100Rate": 10000,
+  "landingVatIas": 140
 }

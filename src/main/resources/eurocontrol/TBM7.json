@@ -1,6 +1,10 @@
 {
   "icaoCode": "TBM7",
+  "takeoffV2Ias": 85,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 290,
   "cruiseCeiling": 30000,
-  "maximumRange": 900
+  "maximumRange": 900,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 80
 }

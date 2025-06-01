@@ -1,6 +1,10 @@
 {
   "icaoCode": "ATLA",
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 275,
   "cruiseCeiling": 32000,
-  "maximumRange": 2200
+  "maximumRange": 2200,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 130
 }

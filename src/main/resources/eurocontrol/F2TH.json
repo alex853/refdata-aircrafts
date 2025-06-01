@@ -1,6 +1,10 @@
 {
   "icaoCode": "F2TH",
+  "takeoffV2Ias": 120,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 470,
   "cruiseCeiling": 47000,
-  "maximumRange": 3000
+  "maximumRange": 3000,
+  "descentToFL100Rate": 4000,
+  "landingVatIas": 110
 }

@@ -1,6 +1,8 @@
 {
   "icaoCode": "C150",
+  "takeoffV2Ias": 55,
   "cruiseTas": 100,
   "cruiseCeiling": 14000,
-  "maximumRange": 250
+  "maximumRange": 250,
+  "landingVatIas": 55
 }

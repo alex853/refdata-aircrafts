@@ -1,6 +1,10 @@
 {
   "icaoCode": "C550",
+  "takeoffV2Ias": 115,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 360,
   "cruiseCeiling": 43000,
-  "maximumRange": 1900
+  "maximumRange": 1900,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 110
 }

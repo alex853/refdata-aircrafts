@@ -1,6 +1,10 @@
 {
   "icaoCode": "SW3",
+  "takeoffV2Ias": 115,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 260,
   "cruiseCeiling": 27000,
-  "maximumRange": 2200
+  "maximumRange": 2200,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 120
 }

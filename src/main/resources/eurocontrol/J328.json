@@ -1,6 +1,10 @@
 {
   "icaoCode": "J328",
+  "takeoffV2Ias": 135,
+  "climbToFL240Rate": 1300,
   "cruiseTas": 350,
   "cruiseCeiling": 35000,
-  "maximumRange": 2000
+  "maximumRange": 2000,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 115
 }

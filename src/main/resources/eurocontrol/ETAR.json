@@ -1,6 +1,10 @@
 {
   "icaoCode": "ETAR",
+  "takeoffV2Ias": 130,
+  "climbToFL240Rate": 5000,
   "cruiseTas": 590,
   "cruiseCeiling": 50000,
-  "maximumRange": 1800
+  "maximumRange": 1800,
+  "descentToFL100Rate": 10000,
+  "landingVatIas": 120
 }

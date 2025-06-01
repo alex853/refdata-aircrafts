@@ -1,6 +1,10 @@
 {
   "icaoCode": "A320",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 1400,
   "cruiseTas": 450,
   "cruiseCeiling": 39000,
-  "maximumRange": 2700
+  "maximumRange": 2700,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 137
 }

@@ -1,0 +1,10 @@
+{
+  "icaoCode": "B789",
+  "takeoffV2Ias": 165,
+  "climbToFL240Rate": 1500,
+  "cruiseTas": 490,
+  "cruiseCeiling": 43000,
+  "maximumRange": 7565,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 150
+}

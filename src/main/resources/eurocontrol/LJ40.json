@@ -1,6 +1,10 @@
 {
   "icaoCode": "LJ40",
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 1800,
   "cruiseTas": 450,
   "cruiseCeiling": 51000,
-  "maximumRange": 1692
+  "maximumRange": 1692,
+  "descentToFL100Rate": 2300,
+  "landingVatIas": 115
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "A225",
+  "takeoffV2Ias": 195,
+  "climbToFL240Rate": 1900,
   "cruiseTas": 458,
   "cruiseCeiling": 45000,
-  "maximumRange": 3000
+  "maximumRange": 3000,
+  "descentToFL100Rate": 2200,
+  "landingVatIas": 150
 }

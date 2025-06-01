@@ -1,6 +1,10 @@
 {
   "icaoCode": "A343",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 490,
   "cruiseCeiling": 41000,
-  "maximumRange": 7200
+  "maximumRange": 7200,
+  "descentToFL100Rate": 2000,
+  "landingVatIas": 150
 }

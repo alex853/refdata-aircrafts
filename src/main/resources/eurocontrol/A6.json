@@ -1,6 +1,10 @@
 {
   "icaoCode": "A6",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 10000,
   "cruiseTas": 420,
   "cruiseCeiling": 41000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 5000,
+  "landingVatIas": 110
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "C414",
+  "takeoffV2Ias": 100,
+  "climbToFL240Rate": 800,
   "cruiseTas": 230,
   "cruiseCeiling": 31000,
-  "maximumRange": 1100
+  "maximumRange": 1100,
+  "descentToFL100Rate": 1000,
+  "landingVatIas": 110
 }

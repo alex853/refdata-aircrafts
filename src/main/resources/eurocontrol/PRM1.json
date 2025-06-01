@@ -1,6 +1,10 @@
 {
   "icaoCode": "PRM1",
-  "cruiseTas": 450,
+  "takeoffV2Ias": 120,
+  "climbToFL240Rate": 1000,
+  "cruiseTas": 440,
   "cruiseCeiling": 41000,
-  "maximumRange": 1500
+  "maximumRange": 1360,
+  "descentToFL100Rate": 2300,
+  "landingVatIas": 95
 }

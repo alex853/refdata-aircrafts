@@ -1,6 +1,10 @@
 {
   "icaoCode": "CRJ9",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 1800,
   "cruiseTas": 450,
   "cruiseCeiling": 41000,
-  "maximumRange": 1550
+  "maximumRange": 1550,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 135
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "AN38",
+  "takeoffV2Ias": 100,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 200,
   "cruiseCeiling": 14000,
-  "maximumRange": 800
+  "maximumRange": 800,
+  "descentToFL100Rate": 800,
+  "landingVatIas": 120
 }

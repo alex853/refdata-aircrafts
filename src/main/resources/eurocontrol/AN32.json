@@ -1,6 +1,10 @@
 {
   "icaoCode": "AN32",
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 250,
   "cruiseCeiling": 30000,
-  "maximumRange": 900
+  "maximumRange": 900,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 100
 }

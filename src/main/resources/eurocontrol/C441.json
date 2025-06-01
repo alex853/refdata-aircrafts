@@ -1,6 +1,10 @@
 {
   "icaoCode": "C441",
+  "takeoffV2Ias": 105,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 280,
   "cruiseCeiling": 31000,
-  "maximumRange": 1200
+  "maximumRange": 1200,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 100
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "IL18",
+  "takeoffV2Ias": 120,
+  "climbToFL240Rate": 600,
   "cruiseTas": 350,
   "cruiseCeiling": 38000,
-  "maximumRange": 3500
+  "maximumRange": 3500,
+  "descentToFL100Rate": 1000,
+  "landingVatIas": 130
 }

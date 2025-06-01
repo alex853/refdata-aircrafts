@@ -1,6 +1,10 @@
 {
   "icaoCode": "T22M",
+  "takeoffV2Ias": 200,
+  "climbToFL240Rate": 3000,
   "cruiseTas": 490,
   "cruiseCeiling": 40000,
-  "maximumRange": 3800
+  "maximumRange": 3800,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 185
 }

@@ -1,6 +1,8 @@
 {
   "icaoCode": "AN2",
+  "takeoffV2Ias": 45,
   "cruiseTas": 100,
   "cruiseCeiling": 15000,
-  "maximumRange": 500
+  "maximumRange": 500,
+  "landingVatIas": 55
 }

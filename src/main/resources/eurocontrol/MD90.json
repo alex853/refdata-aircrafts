@@ -1,6 +1,10 @@
 {
   "icaoCode": "MD90",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 2500,
   "cruiseTas": 440,
   "cruiseCeiling": 37000,
-  "maximumRange": 2200
+  "maximumRange": 2200,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 138
 }

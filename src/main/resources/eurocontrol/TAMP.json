@@ -1,6 +1,10 @@
 {
   "icaoCode": "TAMP",
+  "takeoffV2Ias": 70,
+  "climbToFL240Rate": 100,
   "cruiseTas": 120,
   "cruiseCeiling": 13000,
-  "maximumRange": 450
+  "maximumRange": 450,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 65
 }

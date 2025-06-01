@@ -1,6 +1,10 @@
 {
   "icaoCode": "L410",
+  "takeoffV2Ias": 85,
+  "climbToFL240Rate": 500,
   "cruiseTas": 200,
   "cruiseCeiling": 21000,
-  "maximumRange": 600
+  "maximumRange": 600,
+  "descentToFL100Rate": 800,
+  "landingVatIas": 85
 }

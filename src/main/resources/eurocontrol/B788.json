@@ -1,6 +1,10 @@
 {
   "icaoCode": "B788",
+  "takeoffV2Ias": 165,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 470,
   "cruiseCeiling": 43000,
-  "maximumRange": 8000
+  "maximumRange": 8000,
+  "descentToFL100Rate": 2800,
+  "landingVatIas": 140
 }

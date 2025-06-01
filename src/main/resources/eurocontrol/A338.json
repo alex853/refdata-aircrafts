@@ -1,6 +1,10 @@
 {
   "icaoCode": "A338",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 1200,
   "cruiseTas": 475,
   "cruiseCeiling": 41000,
-  "maximumRange": 8150
+  "maximumRange": 8150,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 140
 }

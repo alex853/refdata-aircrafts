@@ -1,6 +1,10 @@
 {
   "icaoCode": "C402",
+  "takeoffV2Ias": 95,
+  "climbToFL240Rate": 500,
   "cruiseTas": 230,
   "cruiseCeiling": 27000,
-  "maximumRange": 500
+  "maximumRange": 500,
+  "descentToFL100Rate": 800,
+  "landingVatIas": 110
 }

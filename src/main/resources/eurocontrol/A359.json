@@ -1,6 +1,10 @@
 {
   "icaoCode": "A359",
+  "takeoffV2Ias": 150,
+  "climbToFL240Rate": 1600,
   "cruiseTas": 490,
   "cruiseCeiling": 43000,
-  "maximumRange": 8100
+  "maximumRange": 8100,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 140
 }

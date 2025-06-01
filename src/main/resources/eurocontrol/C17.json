@@ -1,6 +1,10 @@
 {
   "icaoCode": "C17",
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 460,
   "cruiseCeiling": 45000,
-  "maximumRange": 5000
+  "maximumRange": 5000,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 115
 }

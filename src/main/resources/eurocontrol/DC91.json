@@ -1,6 +1,10 @@
 {
   "icaoCode": "DC91",
+  "takeoffV2Ias": 115,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 380,
   "cruiseCeiling": 35000,
-  "maximumRange": 1265
+  "maximumRange": 1265,
+  "descentToFL100Rate": 2300,
+  "landingVatIas": 132
 }

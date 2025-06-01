@@ -1,6 +1,10 @@
 {
   "icaoCode": "SF34",
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 700,
   "cruiseTas": 250,
   "cruiseCeiling": 25000,
-  "maximumRange": 930
+  "maximumRange": 930,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 115
 }

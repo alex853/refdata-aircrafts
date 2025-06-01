@@ -1,6 +1,10 @@
 {
   "icaoCode": "AT44",
+  "takeoffV2Ias": 115,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 260,
   "cruiseCeiling": 25000,
-  "maximumRange": 1700
+  "maximumRange": 1700,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 120
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "N262",
+  "takeoffV2Ias": 100,
+  "climbToFL240Rate": 800,
   "cruiseTas": 210,
   "cruiseCeiling": 26000,
-  "maximumRange": 550
+  "maximumRange": 550,
+  "descentToFL100Rate": 1000,
+  "landingVatIas": 90
 }

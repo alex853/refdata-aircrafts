@@ -1,6 +1,10 @@
 {
   "icaoCode": "F406",
+  "takeoffV2Ias": 100,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 240,
   "cruiseCeiling": 30000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 1200,
+  "landingVatIas": 95
 }

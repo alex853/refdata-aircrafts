@@ -1,6 +1,10 @@
 {
   "icaoCode": "P180",
+  "takeoffV2Ias": 120,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 300,
   "cruiseCeiling": 41000,
-  "maximumRange": 1400
+  "maximumRange": 1400,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 120
 }

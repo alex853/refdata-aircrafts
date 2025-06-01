@@ -1,6 +1,10 @@
 {
   "icaoCode": "C212",
+  "takeoffV2Ias": 100,
+  "climbToFL240Rate": 500,
   "cruiseTas": 170,
   "cruiseCeiling": 20000,
-  "maximumRange": 1400
+  "maximumRange": 1400,
+  "descentToFL100Rate": 800,
+  "landingVatIas": 90
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "C526",
+  "takeoffV2Ias": 90,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 260,
   "cruiseCeiling": 35000,
-  "maximumRange": 800
+  "maximumRange": 800,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 115
 }

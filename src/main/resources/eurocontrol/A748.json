@@ -1,6 +1,10 @@
 {
   "icaoCode": "A748",
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 600,
   "cruiseTas": 220,
   "cruiseCeiling": 25000,
-  "maximumRange": 1400
+  "maximumRange": 1400,
+  "descentToFL100Rate": 1000,
+  "landingVatIas": 120
 }

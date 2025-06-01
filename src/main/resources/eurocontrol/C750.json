@@ -1,6 +1,10 @@
 {
   "icaoCode": "C750",
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 2500,
   "cruiseTas": 550,
   "cruiseCeiling": 51000,
-  "maximumRange": 3250
+  "maximumRange": 3250,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 130
 }

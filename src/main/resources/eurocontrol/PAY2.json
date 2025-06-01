@@ -1,6 +1,10 @@
 {
   "icaoCode": "PAY2",
+  "takeoffV2Ias": 100,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 215,
   "cruiseCeiling": 29000,
-  "maximumRange": 1480
+  "maximumRange": 1480,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 100
 }

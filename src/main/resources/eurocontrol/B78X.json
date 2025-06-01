@@ -1,0 +1,10 @@
+{
+  "icaoCode": "B78X",
+  "takeoffV2Ias": 180,
+  "climbToFL240Rate": 1500,
+  "cruiseTas": 488,
+  "cruiseCeiling": 41000,
+  "maximumRange": 6430,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 150
+}

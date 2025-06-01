@@ -1,6 +1,10 @@
 {
   "icaoCode": "EUFI",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 20000,
   "cruiseTas": 480,
   "cruiseCeiling": 65000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 10000,
+  "landingVatIas": 150
 }

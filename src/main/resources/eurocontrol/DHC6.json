@@ -1,6 +1,10 @@
 {
   "icaoCode": "DHC6",
+  "takeoffV2Ias": 80,
+  "climbToFL240Rate": 500,
   "cruiseTas": 160,
   "cruiseCeiling": 26000,
-  "maximumRange": 900
+  "maximumRange": 900,
+  "descentToFL100Rate": 1000,
+  "landingVatIas": 70
 }

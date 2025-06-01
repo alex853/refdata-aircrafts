@@ -1,6 +1,10 @@
 {
   "icaoCode": "E195",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 447,
   "cruiseCeiling": 41000,
-  "maximumRange": 2300
+  "maximumRange": 2300,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 135
 }

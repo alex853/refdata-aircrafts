@@ -1,0 +1,10 @@
+{
+  "icaoCode": "M600",
+  "takeoffV2Ias": 95,
+  "climbToFL240Rate": 1200,
+  "cruiseTas": 270,
+  "cruiseCeiling": 30000,
+  "maximumRange": 1658,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 85
+}

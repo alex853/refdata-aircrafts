@@ -1,6 +1,10 @@
 {
   "icaoCode": "AC11",
+  "takeoffV2Ias": 70,
+  "climbToFL240Rate": 200,
   "cruiseTas": 150,
   "cruiseCeiling": 16000,
-  "maximumRange": 750
+  "maximumRange": 750,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 70
 }

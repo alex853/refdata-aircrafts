@@ -1,6 +1,10 @@
 {
   "icaoCode": "L159",
+  "takeoffV2Ias": 120,
+  "climbToFL240Rate": 5000,
   "cruiseTas": 490,
   "cruiseCeiling": 43000,
-  "maximumRange": 850
+  "maximumRange": 850,
+  "descentToFL100Rate": 5000,
+  "landingVatIas": 130
 }

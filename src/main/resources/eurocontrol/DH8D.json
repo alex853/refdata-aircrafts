@@ -1,6 +1,10 @@
 {
   "icaoCode": "DH8D",
+  "takeoffV2Ias": 115,
+  "climbToFL240Rate": 1200,
   "cruiseTas": 360,
   "cruiseCeiling": 25000,
-  "maximumRange": 1300
+  "maximumRange": 1300,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 121
 }

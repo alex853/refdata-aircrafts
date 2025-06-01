@@ -1,6 +1,10 @@
 {
   "icaoCode": "GALX",
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 3000,
   "cruiseTas": 470,
   "cruiseCeiling": 45000,
-  "maximumRange": 3300
+  "maximumRange": 3300,
+  "descentToFL100Rate": 4000,
+  "landingVatIas": 130
 }

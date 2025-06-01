@@ -1,6 +1,10 @@
 {
   "icaoCode": "RJ70",
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 1200,
   "cruiseTas": 400,
   "cruiseCeiling": 31000,
-  "maximumRange": 1120
+  "maximumRange": 1120,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 125
 }

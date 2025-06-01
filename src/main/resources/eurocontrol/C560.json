@@ -1,6 +1,10 @@
 {
   "icaoCode": "C560",
+  "takeoffV2Ias": 105,
+  "climbToFL240Rate": 3000,
   "cruiseTas": 430,
   "cruiseCeiling": 45000,
-  "maximumRange": 2000
+  "maximumRange": 2000,
+  "descentToFL100Rate": 4000,
+  "landingVatIas": 110
 }

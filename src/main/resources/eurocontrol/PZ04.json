@@ -1,6 +1,10 @@
 {
   "icaoCode": "PZ04",
+  "takeoffV2Ias": 45,
+  "climbToFL240Rate": 100,
   "cruiseTas": 80,
   "cruiseCeiling": 13000,
-  "maximumRange": 275
+  "maximumRange": 275,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 50
 }

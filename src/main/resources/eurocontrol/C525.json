@@ -1,6 +1,10 @@
 {
   "icaoCode": "C525",
+  "takeoffV2Ias": 115,
+  "climbToFL240Rate": 1800,
   "cruiseTas": 370,
   "cruiseCeiling": 41000,
-  "maximumRange": 1485
+  "maximumRange": 1485,
+  "descentToFL100Rate": 2000,
+  "landingVatIas": 110
 }

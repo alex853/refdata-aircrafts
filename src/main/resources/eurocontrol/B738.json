@@ -1,6 +1,10 @@
 {
   "icaoCode": "B738",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 460,
   "cruiseCeiling": 41000,
-  "maximumRange": 2000
+  "maximumRange": 2000,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 147
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "BN2T",
+  "takeoffV2Ias": 60,
+  "climbToFL240Rate": 500,
   "cruiseTas": 145,
   "cruiseCeiling": 23000,
-  "maximumRange": 830
+  "maximumRange": 830,
+  "descentToFL100Rate": 700,
+  "landingVatIas": 65
 }

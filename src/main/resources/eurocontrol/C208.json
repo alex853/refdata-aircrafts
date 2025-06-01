@@ -1,6 +1,10 @@
 {
   "icaoCode": "C208",
+  "takeoffV2Ias": 85,
+  "climbToFL240Rate": 500,
   "cruiseTas": 160,
   "cruiseCeiling": 26000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 75
 }

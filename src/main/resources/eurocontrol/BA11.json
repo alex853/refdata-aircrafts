@@ -1,6 +1,10 @@
 {
   "icaoCode": "BA11",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 1300,
   "cruiseTas": 425,
   "cruiseCeiling": 35000,
-  "maximumRange": 1500
+  "maximumRange": 1500,
+  "descentToFL100Rate": 2000,
+  "landingVatIas": 137
 }

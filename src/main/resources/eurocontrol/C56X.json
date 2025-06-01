@@ -1,6 +1,10 @@
 {
   "icaoCode": "C56X",
+  "takeoffV2Ias": 115,
+  "climbToFL240Rate": 2200,
   "cruiseTas": 430,
   "cruiseCeiling": 45000,
-  "maximumRange": 2000
+  "maximumRange": 2000,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 117
 }

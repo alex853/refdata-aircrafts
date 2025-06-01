@@ -1,6 +1,10 @@
 {
   "icaoCode": "CL60",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 2500,
   "cruiseTas": 460,
   "cruiseCeiling": 41000,
-  "maximumRange": 3350
+  "maximumRange": 3350,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 130
 }

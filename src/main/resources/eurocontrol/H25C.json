@@ -1,6 +1,10 @@
 {
   "icaoCode": "H25C",
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 450,
   "cruiseCeiling": 43000,
-  "maximumRange": 3100
+  "maximumRange": 3100,
+  "descentToFL100Rate": 4000,
+  "landingVatIas": 132
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "L610",
+  "takeoffV2Ias": 100,
+  "climbToFL240Rate": 500,
   "cruiseTas": 220,
   "cruiseCeiling": 23000,
-  "maximumRange": 1300
+  "maximumRange": 1300,
+  "descentToFL100Rate": 800,
+  "landingVatIas": 100
 }

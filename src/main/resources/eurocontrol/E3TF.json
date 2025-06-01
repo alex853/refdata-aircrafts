@@ -1,6 +1,10 @@
 {
   "icaoCode": "E3TF",
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 1200,
   "cruiseTas": 420,
   "cruiseCeiling": 29000,
-  "maximumRange": 4000
+  "maximumRange": 4000,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 150
 }

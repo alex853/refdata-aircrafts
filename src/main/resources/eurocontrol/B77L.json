@@ -1,6 +1,10 @@
 {
   "icaoCode": "B77L",
+  "takeoffV2Ias": 123,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 490,
   "cruiseCeiling": 43100,
-  "maximumRange": 9380
+  "maximumRange": 9380,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 140
 }

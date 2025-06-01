@@ -1,0 +1,10 @@
+{
+  "icaoCode": "C25M",
+  "takeoffV2Ias": 111,
+  "climbToFL240Rate": 2500,
+  "cruiseTas": 400,
+  "cruiseCeiling": 41000,
+  "maximumRange": 1300,
+  "descentToFL100Rate": 2000,
+  "landingVatIas": 105
+}

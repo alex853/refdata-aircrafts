@@ -1,6 +1,10 @@
 {
   "icaoCode": "AN70",
+  "takeoffV2Ias": 120,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 400,
   "cruiseCeiling": 36000,
-  "maximumRange": 2600
+  "maximumRange": 2600,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 140
 }

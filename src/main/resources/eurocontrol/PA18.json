@@ -1,6 +1,10 @@
 {
   "icaoCode": "PA18",
+  "takeoffV2Ias": 45,
+  "climbToFL240Rate": 700,
   "cruiseTas": 100,
   "cruiseCeiling": 19000,
-  "maximumRange": 400
+  "maximumRange": 400,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 45
 }

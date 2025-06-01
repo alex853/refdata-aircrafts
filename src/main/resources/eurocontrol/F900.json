@@ -1,6 +1,10 @@
 {
   "icaoCode": "F900",
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 2500,
   "cruiseTas": 510,
   "cruiseCeiling": 51000,
-  "maximumRange": 4500
+  "maximumRange": 4500,
+  "descentToFL100Rate": 4000,
+  "landingVatIas": 110
 }

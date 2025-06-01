@@ -1,6 +1,10 @@
 {
   "icaoCode": "MG25",
+  "takeoffV2Ias": 240,
+  "climbToFL240Rate": 21000,
   "cruiseTas": 230,
   "cruiseCeiling": 68000,
-  "maximumRange": 1390
+  "maximumRange": 1390,
+  "descentToFL100Rate": 10000,
+  "landingVatIas": 185
 }

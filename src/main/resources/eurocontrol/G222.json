@@ -1,6 +1,10 @@
 {
   "icaoCode": "G222",
+  "takeoffV2Ias": 115,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 240,
   "cruiseCeiling": 25000,
-  "maximumRange": 2500
+  "maximumRange": 2500,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 120
 }

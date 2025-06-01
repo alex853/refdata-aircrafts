@@ -1,6 +1,10 @@
 {
   "icaoCode": "C206",
+  "takeoffV2Ias": 75,
+  "climbToFL240Rate": 0,
   "cruiseTas": 140,
   "cruiseCeiling": 17000,
-  "maximumRange": 560
+  "maximumRange": 560,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 70
 }

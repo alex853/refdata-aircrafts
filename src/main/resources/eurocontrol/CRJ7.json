@@ -1,6 +1,10 @@
 {
   "icaoCode": "CRJ7",
+  "takeoffV2Ias": 135,
+  "climbToFL240Rate": 2500,
   "cruiseTas": 442,
   "cruiseCeiling": 41000,
-  "maximumRange": 1687
+  "maximumRange": 1687,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 135
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "MG23",
+  "takeoffV2Ias": 150,
+  "climbToFL240Rate": 25000,
   "cruiseTas": 500,
   "cruiseCeiling": 60000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 10000,
+  "landingVatIas": 157
 }

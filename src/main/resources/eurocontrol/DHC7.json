@@ -1,6 +1,10 @@
 {
   "icaoCode": "DHC7",
+  "takeoffV2Ias": 90,
+  "climbToFL240Rate": 500,
   "cruiseTas": 220,
   "cruiseCeiling": 21000,
-  "maximumRange": 1600
+  "maximumRange": 1600,
+  "descentToFL100Rate": 800,
+  "landingVatIas": 90
 }

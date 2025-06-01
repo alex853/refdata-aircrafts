@@ -1,6 +1,10 @@
 {
   "icaoCode": "S601",
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 310,
   "cruiseCeiling": 41000,
-  "maximumRange": 1400
+  "maximumRange": 1400,
+  "descentToFL100Rate": 2000,
+  "landingVatIas": 120
 }

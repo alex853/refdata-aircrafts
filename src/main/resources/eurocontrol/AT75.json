@@ -1,6 +1,10 @@
 {
   "icaoCode": "AT75",
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 800,
   "cruiseTas": 280,
   "cruiseCeiling": 25000,
-  "maximumRange": 825
+  "maximumRange": 825,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 120
 }

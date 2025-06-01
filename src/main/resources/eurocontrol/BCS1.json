@@ -1,6 +1,10 @@
 {
   "icaoCode": "BCS1",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 445,
   "cruiseCeiling": 41000,
-  "maximumRange": 3400
+  "maximumRange": 3400,
+  "descentToFL100Rate": 2200,
+  "landingVatIas": 135
 }

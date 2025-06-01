@@ -1,6 +1,10 @@
 {
   "icaoCode": "E2",
+  "takeoffV2Ias": 105,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 290,
   "cruiseCeiling": 37000,
-  "maximumRange": 1500
+  "maximumRange": 1500,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 105
 }

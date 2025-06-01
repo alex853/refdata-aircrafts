@@ -1,6 +1,10 @@
 {
   "icaoCode": "AMXM",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 10000,
   "cruiseTas": 420,
   "cruiseCeiling": 43000,
-  "maximumRange": 800
+  "maximumRange": 800,
+  "descentToFL100Rate": 10000,
+  "landingVatIas": 140
 }

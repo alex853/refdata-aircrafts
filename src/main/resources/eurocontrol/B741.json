@@ -1,6 +1,10 @@
 {
   "icaoCode": "B741",
+  "takeoffV2Ias": 170,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 500,
   "cruiseCeiling": 45000,
-  "maximumRange": 5290
+  "maximumRange": 5290,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 150
 }

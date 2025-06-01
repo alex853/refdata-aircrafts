@@ -1,6 +1,10 @@
 {
   "icaoCode": "B38M",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 453,
   "cruiseCeiling": 41000,
-  "maximumRange": 3550
+  "maximumRange": 3550,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 145
 }

@@ -1,6 +1,8 @@
 {
   "icaoCode": "C160",
+  "takeoffV2Ias": 115,
   "cruiseTas": 260,
   "cruiseCeiling": 27000,
-  "maximumRange": 2500
+  "maximumRange": 2500,
+  "landingVatIas": 125
 }

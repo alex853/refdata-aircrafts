@@ -1,6 +1,10 @@
 {
   "icaoCode": "P3",
+  "takeoffV2Ias": 120,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 330,
   "cruiseCeiling": 28000,
-  "maximumRange": 3800
+  "maximumRange": 3800,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 130
 }

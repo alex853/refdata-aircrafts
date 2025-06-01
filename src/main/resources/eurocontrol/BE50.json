@@ -1,6 +1,10 @@
 {
   "icaoCode": "BE50",
+  "takeoffV2Ias": 95,
+  "climbToFL240Rate": 500,
   "cruiseTas": 160,
   "cruiseCeiling": 20000,
-  "maximumRange": 600
+  "maximumRange": 600,
+  "descentToFL100Rate": 800,
+  "landingVatIas": 80
 }

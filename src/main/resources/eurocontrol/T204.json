@@ -1,6 +1,10 @@
 {
   "icaoCode": "T204",
+  "takeoffV2Ias": 160,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 450,
   "cruiseCeiling": 38000,
-  "maximumRange": 5000
+  "maximumRange": 5000,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 140
 }

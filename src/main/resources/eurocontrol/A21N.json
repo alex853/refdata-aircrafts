@@ -1,6 +1,10 @@
 {
   "icaoCode": "A21N",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 1200,
   "cruiseTas": 450,
   "cruiseCeiling": 39000,
-  "maximumRange": 4000
+  "maximumRange": 4000,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 140
 }

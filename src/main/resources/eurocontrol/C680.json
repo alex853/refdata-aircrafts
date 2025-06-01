@@ -1,6 +1,10 @@
 {
   "icaoCode": "C680",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 3500,
   "cruiseTas": 460,
   "cruiseCeiling": 47000,
-  "maximumRange": 2800
+  "maximumRange": 2800,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 125
 }

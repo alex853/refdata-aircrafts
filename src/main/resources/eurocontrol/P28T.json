@@ -1,6 +1,10 @@
 {
   "icaoCode": "P28T",
+  "takeoffV2Ias": 70,
+  "climbToFL240Rate": 700,
   "cruiseTas": 160,
   "cruiseCeiling": 20000,
-  "maximumRange": 700
+  "maximumRange": 700,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 70
 }

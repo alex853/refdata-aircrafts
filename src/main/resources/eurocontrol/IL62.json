@@ -1,6 +1,10 @@
 {
   "icaoCode": "IL62",
+  "takeoffV2Ias": 150,
+  "climbToFL240Rate": 800,
   "cruiseTas": 460,
   "cruiseCeiling": 39000,
-  "maximumRange": 5200
+  "maximumRange": 5200,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 145
 }

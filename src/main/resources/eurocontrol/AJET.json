@@ -1,6 +1,10 @@
 {
   "icaoCode": "AJET",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 3000,
   "cruiseTas": 500,
   "cruiseCeiling": 48000,
-  "maximumRange": 1200
+  "maximumRange": 1200,
+  "descentToFL100Rate": 5000,
+  "landingVatIas": 92
 }

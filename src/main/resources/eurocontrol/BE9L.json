@@ -1,6 +1,10 @@
 {
   "icaoCode": "BE9L",
+  "takeoffV2Ias": 100,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 220,
   "cruiseCeiling": 29000,
-  "maximumRange": 1150
+  "maximumRange": 1150,
+  "descentToFL100Rate": 1000,
+  "landingVatIas": 105
 }

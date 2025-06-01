@@ -1,6 +1,10 @@
 {
   "icaoCode": "MD82",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 440,
   "cruiseCeiling": 37000,
-  "maximumRange": 2052
+  "maximumRange": 2052,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 136
 }

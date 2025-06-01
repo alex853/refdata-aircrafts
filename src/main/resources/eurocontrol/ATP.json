@@ -1,6 +1,10 @@
 {
   "icaoCode": "ATP",
+  "takeoffV2Ias": 105,
+  "climbToFL240Rate": 600,
   "cruiseTas": 266,
   "cruiseCeiling": 25000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 105
 }

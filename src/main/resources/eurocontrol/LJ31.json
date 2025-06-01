@@ -1,6 +1,10 @@
 {
   "icaoCode": "LJ31",
+  "takeoffV2Ias": 130,
+  "climbToFL240Rate": 3000,
   "cruiseTas": 450,
   "cruiseCeiling": 51000,
-  "maximumRange": 1500
+  "maximumRange": 1500,
+  "descentToFL100Rate": 4000,
+  "landingVatIas": 120
 }

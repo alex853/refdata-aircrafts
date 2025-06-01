@@ -1,6 +1,10 @@
 {
   "icaoCode": "PA23",
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 160,
   "cruiseCeiling": 19000,
-  "maximumRange": 780
+  "maximumRange": 780,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 85
 }

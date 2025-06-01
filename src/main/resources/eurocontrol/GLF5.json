@@ -1,6 +1,10 @@
 {
   "icaoCode": "GLF5",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 2500,
   "cruiseTas": 480,
   "cruiseCeiling": 51000,
-  "maximumRange": 5800
+  "maximumRange": 5800,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 140
 }

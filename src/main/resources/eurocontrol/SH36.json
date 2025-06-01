@@ -1,6 +1,10 @@
 {
   "icaoCode": "SH36",
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 500,
   "cruiseTas": 210,
   "cruiseCeiling": 22000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 800,
+  "landingVatIas": 100
 }

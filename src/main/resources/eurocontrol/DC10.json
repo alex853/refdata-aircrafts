@@ -1,6 +1,10 @@
 {
   "icaoCode": "DC10",
+  "takeoffV2Ias": 150,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 510,
   "cruiseCeiling": 41000,
-  "maximumRange": 6220
+  "maximumRange": 6220,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 149
 }

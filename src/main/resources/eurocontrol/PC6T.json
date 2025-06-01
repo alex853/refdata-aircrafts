@@ -1,6 +1,10 @@
 {
   "icaoCode": "PC6T",
+  "takeoffV2Ias": 60,
+  "climbToFL240Rate": 700,
   "cruiseTas": 130,
   "cruiseCeiling": 25000,
-  "maximumRange": 850
+  "maximumRange": 850,
+  "descentToFL100Rate": 700,
+  "landingVatIas": 60
 }

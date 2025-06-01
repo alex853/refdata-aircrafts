@@ -1,6 +1,10 @@
 {
   "icaoCode": "PA38",
+  "takeoffV2Ias": 60,
+  "climbToFL240Rate": 100,
   "cruiseTas": 95,
   "cruiseCeiling": 11000,
-  "maximumRange": 450
+  "maximumRange": 450,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 60
 }

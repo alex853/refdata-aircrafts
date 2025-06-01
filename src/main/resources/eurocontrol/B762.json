@@ -1,6 +1,10 @@
 {
   "icaoCode": "B762",
+  "takeoffV2Ias": 160,
+  "climbToFL240Rate": 1400,
   "cruiseTas": 470,
   "cruiseCeiling": 45000,
-  "maximumRange": 6600
+  "maximumRange": 6600,
+  "descentToFL100Rate": 1600,
+  "landingVatIas": 135
 }

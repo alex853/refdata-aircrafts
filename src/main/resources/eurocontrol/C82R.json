@@ -1,6 +1,10 @@
 {
   "icaoCode": "C82R",
+  "takeoffV2Ias": 65,
+  "climbToFL240Rate": 500,
   "cruiseTas": 140,
   "cruiseCeiling": 18000,
-  "maximumRange": 800
+  "maximumRange": 800,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 65
 }

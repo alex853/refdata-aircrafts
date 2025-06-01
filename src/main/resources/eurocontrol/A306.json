@@ -1,6 +1,10 @@
 {
   "icaoCode": "A306",
+  "takeoffV2Ias": 160,
+  "climbToFL240Rate": 2500,
   "cruiseTas": 470,
   "cruiseCeiling": 37000,
-  "maximumRange": 4150
+  "maximumRange": 4150,
+  "descentToFL100Rate": 2000,
+  "landingVatIas": 139
 }

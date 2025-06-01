@@ -1,6 +1,10 @@
 {
   "icaoCode": "SB05",
+  "takeoffV2Ias": 90,
+  "climbToFL240Rate": 4000,
   "cruiseTas": 450,
   "cruiseCeiling": 42000,
-  "maximumRange": 1200
+  "maximumRange": 1200,
+  "descentToFL100Rate": 5000,
+  "landingVatIas": 115
 }

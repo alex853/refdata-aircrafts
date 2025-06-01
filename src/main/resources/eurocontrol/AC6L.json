@@ -1,6 +1,8 @@
 {
   "icaoCode": "AC6L",
+  "takeoffV2Ias": 80,
   "cruiseTas": 170,
   "cruiseCeiling": 20000,
-  "maximumRange": 1200
+  "maximumRange": 1200,
+  "landingVatIas": 75
 }

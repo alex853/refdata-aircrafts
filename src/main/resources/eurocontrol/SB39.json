@@ -1,6 +1,10 @@
 {
   "icaoCode": "SB39",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 25000,
   "cruiseTas": 480,
   "cruiseCeiling": 50000,
-  "maximumRange": 860
+  "maximumRange": 860,
+  "descentToFL100Rate": 10000,
+  "landingVatIas": 120
 }

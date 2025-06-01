@@ -1,6 +1,10 @@
 {
   "icaoCode": "FA7X",
+  "takeoffV2Ias": 115,
+  "climbToFL240Rate": 2500,
   "cruiseTas": 580,
   "cruiseCeiling": 51000,
-  "maximumRange": 5950
+  "maximumRange": 5950,
+  "descentToFL100Rate": 2200,
+  "landingVatIas": 104
 }

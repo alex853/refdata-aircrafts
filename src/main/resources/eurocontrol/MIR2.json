@@ -1,6 +1,10 @@
 {
   "icaoCode": "MIR2",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 35000,
   "cruiseTas": 505,
   "cruiseCeiling": 54000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 10000,
+  "landingVatIas": 125
 }

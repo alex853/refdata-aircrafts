@@ -1,6 +1,10 @@
 {
   "icaoCode": "HAR",
+  "takeoffV2Ias": 137,
+  "climbToFL240Rate": 10000,
   "cruiseTas": 480,
   "cruiseCeiling": 50000,
-  "maximumRange": 500
+  "maximumRange": 500,
+  "descentToFL100Rate": 10000,
+  "landingVatIas": 140
 }

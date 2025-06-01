@@ -1,6 +1,10 @@
 {
   "icaoCode": "TUCA",
+  "takeoffV2Ias": 85,
+  "climbToFL240Rate": 1200,
   "cruiseTas": 220,
   "cruiseCeiling": 30000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 1000,
+  "landingVatIas": 90
 }

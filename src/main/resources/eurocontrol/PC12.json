@@ -1,6 +1,10 @@
 {
   "icaoCode": "PC12",
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 700,
   "cruiseTas": 270,
   "cruiseCeiling": 30000,
-  "maximumRange": 2000
+  "maximumRange": 2000,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 85
 }

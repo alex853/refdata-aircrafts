@@ -1,6 +1,10 @@
 {
   "icaoCode": "M339",
+  "takeoffV2Ias": 100,
+  "climbToFL240Rate": 3000,
   "cruiseTas": 350,
   "cruiseCeiling": 45000,
-  "maximumRange": 1050
+  "maximumRange": 1050,
+  "descentToFL100Rate": 5000,
+  "landingVatIas": 105
 }

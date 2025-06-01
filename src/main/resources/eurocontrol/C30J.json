@@ -1,6 +1,10 @@
 {
   "icaoCode": "C30J",
+  "takeoffV2Ias": 120,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 330,
   "cruiseCeiling": 33000,
-  "maximumRange": 2835
+  "maximumRange": 2835,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 130
 }

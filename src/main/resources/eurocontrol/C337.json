@@ -1,6 +1,10 @@
 {
   "icaoCode": "C337",
+  "takeoffV2Ias": 85,
+  "climbToFL240Rate": 500,
   "cruiseTas": 165,
   "cruiseCeiling": 19500,
-  "maximumRange": 920
+  "maximumRange": 920,
+  "descentToFL100Rate": 800,
+  "landingVatIas": 90
 }

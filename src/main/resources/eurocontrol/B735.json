@@ -1,6 +1,10 @@
 {
   "icaoCode": "B735",
+  "takeoffV2Ias": 139,
+  "climbToFL240Rate": 1800,
   "cruiseTas": 430,
   "cruiseCeiling": 37000,
-  "maximumRange": 1600
+  "maximumRange": 1600,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 128
 }

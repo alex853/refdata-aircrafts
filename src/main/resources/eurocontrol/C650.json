@@ -1,6 +1,10 @@
 {
   "icaoCode": "C650",
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 3000,
   "cruiseTas": 470,
   "cruiseCeiling": 51000,
-  "maximumRange": 2200
+  "maximumRange": 2200,
+  "descentToFL100Rate": 4000,
+  "landingVatIas": 130
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "YK42",
+  "takeoffV2Ias": 130,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 400,
   "cruiseCeiling": 31000,
-  "maximumRange": 2500
+  "maximumRange": 2500,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 130
 }

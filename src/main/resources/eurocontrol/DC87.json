@@ -1,6 +1,10 @@
 {
   "icaoCode": "DC87",
+  "takeoffV2Ias": 160,
+  "climbToFL240Rate": 1200,
   "cruiseTas": 460,
   "cruiseCeiling": 41000,
-  "maximumRange": 4830
+  "maximumRange": 4830,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 145
 }

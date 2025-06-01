@@ -1,6 +1,10 @@
 {
   "icaoCode": "SU24",
+  "takeoffV2Ias": 180,
+  "climbToFL240Rate": 12000,
   "cruiseTas": 500,
   "cruiseCeiling": 36000,
-  "maximumRange": 1200
+  "maximumRange": 1200,
+  "descentToFL100Rate": 8000,
+  "landingVatIas": 160
 }

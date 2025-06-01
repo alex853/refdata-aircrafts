@@ -1,6 +1,10 @@
 {
   "icaoCode": "B752",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 470,
   "cruiseCeiling": 42000,
-  "maximumRange": 3900
+  "maximumRange": 3900,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 130
 }

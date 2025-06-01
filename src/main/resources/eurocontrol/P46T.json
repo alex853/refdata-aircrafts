@@ -1,6 +1,10 @@
 {
   "icaoCode": "P46T",
+  "takeoffV2Ias": 80,
+  "climbToFL240Rate": 800,
   "cruiseTas": 220,
   "cruiseCeiling": 30000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 75
 }

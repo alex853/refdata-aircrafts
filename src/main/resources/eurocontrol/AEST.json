@@ -1,6 +1,10 @@
 {
   "icaoCode": "AEST",
+  "takeoffV2Ias": 95,
+  "climbToFL240Rate": 800,
   "cruiseTas": 230,
   "cruiseCeiling": 29000,
-  "maximumRange": 1200
+  "maximumRange": 1200,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 100
 }

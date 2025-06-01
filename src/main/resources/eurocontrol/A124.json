@@ -1,6 +1,10 @@
 {
   "icaoCode": "A124",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 900,
   "cruiseTas": 430,
   "cruiseCeiling": 39000,
-  "maximumRange": 3200
+  "maximumRange": 3200,
+  "descentToFL100Rate": 2000,
+  "landingVatIas": 140
 }

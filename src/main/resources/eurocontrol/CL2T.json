@@ -1,6 +1,10 @@
 {
   "icaoCode": "CL2T",
+  "takeoffV2Ias": 100,
+  "climbToFL240Rate": 500,
   "cruiseTas": 180,
   "cruiseCeiling": 18000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 800,
+  "landingVatIas": 105
 }

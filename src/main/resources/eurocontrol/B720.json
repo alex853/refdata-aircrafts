@@ -1,6 +1,10 @@
 {
   "icaoCode": "B720",
+  "takeoffV2Ias": 175,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 480,
   "cruiseCeiling": 39000,
-  "maximumRange": 3600
+  "maximumRange": 3600,
+  "descentToFL100Rate": 2000,
+  "landingVatIas": 133
 }

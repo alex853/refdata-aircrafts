@@ -1,6 +1,10 @@
 {
   "icaoCode": "T38",
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 12500,
   "cruiseTas": 450,
   "cruiseCeiling": 50000,
-  "maximumRange": 950
+  "maximumRange": 950,
+  "descentToFL100Rate": 10000,
+  "landingVatIas": 160
 }

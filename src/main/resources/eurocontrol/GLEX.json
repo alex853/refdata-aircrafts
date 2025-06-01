@@ -1,6 +1,10 @@
 {
   "icaoCode": "GLEX",
+  "takeoffV2Ias": 120,
+  "climbToFL240Rate": 3000,
   "cruiseTas": 490,
   "cruiseCeiling": 51000,
-  "maximumRange": 6300
+  "maximumRange": 6300,
+  "descentToFL100Rate": 2000,
+  "landingVatIas": 125
 }

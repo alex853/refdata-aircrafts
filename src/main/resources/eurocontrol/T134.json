@@ -1,6 +1,10 @@
 {
   "icaoCode": "T134",
+  "takeoffV2Ias": 150,
+  "climbToFL240Rate": 1200,
   "cruiseTas": 400,
   "cruiseCeiling": 39000,
-  "maximumRange": 1025
+  "maximumRange": 1025,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 150
 }

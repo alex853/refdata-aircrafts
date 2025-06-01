@@ -1,6 +1,10 @@
 {
   "icaoCode": "E170",
+  "takeoffV2Ias": 138,
+  "climbToFL240Rate": 2200,
   "cruiseTas": 460,
   "cruiseCeiling": 41000,
-  "maximumRange": 2100
+  "maximumRange": 2100,
+  "descentToFL100Rate": 2600,
+  "landingVatIas": 130
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "DC92",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 440,
   "cruiseCeiling": 37000,
-  "maximumRange": 1605
+  "maximumRange": 1605,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 127
 }

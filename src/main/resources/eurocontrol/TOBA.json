@@ -1,6 +1,10 @@
 {
   "icaoCode": "TOBA",
+  "takeoffV2Ias": 70,
+  "climbToFL240Rate": 100,
   "cruiseTas": 100,
   "cruiseCeiling": 13000,
-  "maximumRange": 530
+  "maximumRange": 530,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 65
 }

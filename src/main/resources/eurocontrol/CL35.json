@@ -1,6 +1,10 @@
 {
   "icaoCode": "CL35",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 2500,
   "cruiseTas": 455,
   "cruiseCeiling": 45000,
-  "maximumRange": 3200
+  "maximumRange": 3200,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 125
 }

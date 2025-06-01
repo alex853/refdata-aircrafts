@@ -1,6 +1,10 @@
 {
   "icaoCode": "B733",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 1400,
   "cruiseTas": 429,
   "cruiseCeiling": 37000,
-  "maximumRange": 1600
+  "maximumRange": 1600,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 132
 }

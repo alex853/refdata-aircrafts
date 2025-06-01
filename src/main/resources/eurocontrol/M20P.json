@@ -1,6 +1,10 @@
 {
   "icaoCode": "M20P",
+  "takeoffV2Ias": 70,
+  "climbToFL240Rate": 500,
   "cruiseTas": 237,
   "cruiseCeiling": 25000,
-  "maximumRange": 1445
+  "maximumRange": 1445,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 60
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "DC85",
+  "takeoffV2Ias": 130,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 465,
   "cruiseCeiling": 36000,
-  "maximumRange": 4900
+  "maximumRange": 4900,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 137
 }

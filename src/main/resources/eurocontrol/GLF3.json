@@ -1,6 +1,10 @@
 {
   "icaoCode": "GLF3",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 450,
   "cruiseCeiling": 45000,
-  "maximumRange": 4300
+  "maximumRange": 4300,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 135
 }

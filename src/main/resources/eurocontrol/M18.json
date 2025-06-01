@@ -1,6 +1,10 @@
 {
   "icaoCode": "M18",
+  "takeoffV2Ias": 85,
+  "climbToFL240Rate": 1,
   "cruiseTas": 100,
   "cruiseCeiling": 21000,
-  "maximumRange": 450
+  "maximumRange": 450,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 80
 }

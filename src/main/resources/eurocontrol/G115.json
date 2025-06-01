@@ -1,6 +1,8 @@
 {
   "icaoCode": "G115",
+  "takeoffV2Ias": 65,
   "cruiseTas": 130,
   "cruiseCeiling": 17000,
-  "maximumRange": 600
+  "maximumRange": 600,
+  "landingVatIas": 60
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "IL96",
+  "takeoffV2Ias": 150,
+  "climbToFL240Rate": 1200,
   "cruiseTas": 470,
   "cruiseCeiling": 39000,
-  "maximumRange": 6900
+  "maximumRange": 6900,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 150
 }

@@ -1,0 +1,10 @@
+{
+  "icaoCode": "HDJT",
+  "takeoffV2Ias": 120,
+  "climbToFL240Rate": 2500,
+  "cruiseTas": 410,
+  "cruiseCeiling": 43000,
+  "maximumRange": 1547,
+  "descentToFL100Rate": 2000,
+  "landingVatIas": 112
+}

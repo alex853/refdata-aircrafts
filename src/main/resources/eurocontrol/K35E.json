@@ -1,6 +1,10 @@
 {
   "icaoCode": "K35E",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 800,
   "cruiseTas": 440,
   "cruiseCeiling": 36000,
-  "maximumRange": 1400
+  "maximumRange": 1400,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 135
 }

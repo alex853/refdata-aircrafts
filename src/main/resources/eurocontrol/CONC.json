@@ -1,6 +1,10 @@
 {
   "icaoCode": "CONC",
+  "takeoffV2Ias": 220,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 1500,
   "cruiseCeiling": 60000,
-  "maximumRange": 3900
+  "maximumRange": 3900,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 165
 }

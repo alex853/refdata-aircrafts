@@ -1,6 +1,8 @@
 {
   "icaoCode": "F26T",
+  "takeoffV2Ias": 80,
   "cruiseTas": 180,
   "cruiseCeiling": 24000,
-  "maximumRange": 500
+  "maximumRange": 500,
+  "landingVatIas": 75
 }

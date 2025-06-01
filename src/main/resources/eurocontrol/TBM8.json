@@ -1,6 +1,10 @@
 {
   "icaoCode": "TBM8",
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 1100,
   "cruiseTas": 300,
   "cruiseCeiling": 31000,
-  "maximumRange": 1520
+  "maximumRange": 1520,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 95
 }

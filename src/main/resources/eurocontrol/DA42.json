@@ -1,6 +1,10 @@
 {
   "icaoCode": "DA42",
+  "takeoffV2Ias": 85,
+  "climbToFL240Rate": 0,
   "cruiseTas": 180,
   "cruiseCeiling": 18000,
-  "maximumRange": 1061
+  "maximumRange": 1061,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 75
 }

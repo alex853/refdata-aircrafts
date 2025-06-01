@@ -1,6 +1,10 @@
 {
   "icaoCode": "CN35",
+  "takeoffV2Ias": 100,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 210,
   "cruiseCeiling": 26500,
-  "maximumRange": 2500
+  "maximumRange": 2500,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 110
 }

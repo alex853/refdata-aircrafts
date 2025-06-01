@@ -1,6 +1,10 @@
 {
   "icaoCode": "GL5T",
+  "takeoffV2Ias": 150,
+  "climbToFL240Rate": 2500,
   "cruiseTas": 485,
   "cruiseCeiling": 51000,
-  "maximumRange": 5200
+  "maximumRange": 5200,
+  "descentToFL100Rate": 2300,
+  "landingVatIas": 122
 }

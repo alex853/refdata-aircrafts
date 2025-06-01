@@ -1,6 +1,10 @@
 {
   "icaoCode": "PA27",
+  "takeoffV2Ias": 82,
+  "climbToFL240Rate": 100,
   "cruiseTas": 170,
   "cruiseCeiling": 17000,
-  "maximumRange": 710
+  "maximumRange": 710,
+  "descentToFL100Rate": 800,
+  "landingVatIas": 70
 }

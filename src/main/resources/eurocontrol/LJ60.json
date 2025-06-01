@@ -1,6 +1,10 @@
 {
   "icaoCode": "LJ60",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 3000,
   "cruiseTas": 455,
   "cruiseCeiling": 51000,
-  "maximumRange": 2400
+  "maximumRange": 2400,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 140
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "MD81",
+  "takeoffV2Ias": 130,
+  "climbToFL240Rate": 2200,
   "cruiseTas": 480,
   "cruiseCeiling": 37000,
-  "maximumRange": 1570
+  "maximumRange": 1570,
+  "descentToFL100Rate": 2300,
+  "landingVatIas": 125
 }

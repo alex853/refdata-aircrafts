@@ -1,6 +1,10 @@
 {
   "icaoCode": "A332",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 2200,
   "cruiseTas": 470,
   "cruiseCeiling": 41000,
-  "maximumRange": 6750
+  "maximumRange": 6750,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 140
 }

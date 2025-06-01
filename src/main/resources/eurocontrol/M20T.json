@@ -1,6 +1,10 @@
 {
   "icaoCode": "M20T",
+  "takeoffV2Ias": 75,
+  "climbToFL240Rate": 500,
   "cruiseTas": 200,
   "cruiseCeiling": 25000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 70
 }

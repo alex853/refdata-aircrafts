@@ -1,6 +1,10 @@
 {
   "icaoCode": "AN24",
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 240,
   "cruiseCeiling": 28000,
-  "maximumRange": 600
+  "maximumRange": 600,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 120
 }

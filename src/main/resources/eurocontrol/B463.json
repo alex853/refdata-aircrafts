@@ -1,6 +1,10 @@
 {
   "icaoCode": "B463",
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 1200,
   "cruiseTas": 380,
   "cruiseCeiling": 31000,
-  "maximumRange": 1100
+  "maximumRange": 1100,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 125
 }

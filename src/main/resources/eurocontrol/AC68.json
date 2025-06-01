@@ -1,6 +1,8 @@
 {
   "icaoCode": "AC68",
+  "takeoffV2Ias": 80,
   "cruiseTas": 160,
   "cruiseCeiling": 28000,
-  "maximumRange": 1200
+  "maximumRange": 1200,
+  "landingVatIas": 75
 }

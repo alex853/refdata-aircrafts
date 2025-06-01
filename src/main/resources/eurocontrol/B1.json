@@ -1,6 +1,8 @@
 {
   "icaoCode": "B1",
+  "takeoffV2Ias": 175,
   "cruiseTas": 440,
   "cruiseCeiling": 50000,
-  "maximumRange": 6500
+  "maximumRange": 6500,
+  "landingVatIas": 150
 }

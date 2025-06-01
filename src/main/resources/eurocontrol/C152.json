@@ -1,6 +1,8 @@
 {
   "icaoCode": "C152",
+  "takeoffV2Ias": 60,
   "cruiseTas": 100,
   "cruiseCeiling": 14700,
-  "maximumRange": 315
+  "maximumRange": 315,
+  "landingVatIas": 55
 }

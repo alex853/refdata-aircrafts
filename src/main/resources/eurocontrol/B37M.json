@@ -1,6 +1,10 @@
 {
   "icaoCode": "B37M",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 2200,
   "cruiseTas": 453,
   "cruiseCeiling": 41000,
-  "maximumRange": 3850
+  "maximumRange": 3850,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 145
 }

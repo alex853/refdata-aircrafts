@@ -1,6 +1,10 @@
 {
   "icaoCode": "B764",
+  "takeoffV2Ias": 160,
+  "climbToFL240Rate": 1800,
   "cruiseTas": 460,
   "cruiseCeiling": 45000,
-  "maximumRange": 5645
+  "maximumRange": 5645,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 150
 }

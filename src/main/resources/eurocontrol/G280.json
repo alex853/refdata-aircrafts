@@ -1,6 +1,10 @@
 {
   "icaoCode": "G280",
+  "takeoffV2Ias": 135,
+  "climbToFL240Rate": 2500,
   "cruiseTas": 472,
   "cruiseCeiling": 45000,
-  "maximumRange": 3600
+  "maximumRange": 3600,
+  "descentToFL100Rate": 2100,
+  "landingVatIas": 134
 }

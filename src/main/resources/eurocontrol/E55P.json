@@ -1,6 +1,10 @@
 {
   "icaoCode": "E55P",
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 450,
   "cruiseCeiling": 45000,
-  "maximumRange": 1970
+  "maximumRange": 1970,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 115
 }

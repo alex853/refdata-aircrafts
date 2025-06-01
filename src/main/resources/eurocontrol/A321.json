@@ -1,6 +1,10 @@
 {
   "icaoCode": "A321",
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 1800,
   "cruiseTas": 450,
   "cruiseCeiling": 41000,
-  "maximumRange": 2350
+  "maximumRange": 2350,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 141
 }

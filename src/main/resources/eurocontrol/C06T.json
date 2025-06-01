@@ -1,6 +1,10 @@
 {
   "icaoCode": "C06T",
+  "takeoffV2Ias": 75,
+  "climbToFL240Rate": 700,
   "cruiseTas": 150,
   "cruiseCeiling": 20000,
-  "maximumRange": 630
+  "maximumRange": 630,
+  "descentToFL100Rate": 500,
+  "landingVatIas": 70
 }

@@ -1,6 +1,10 @@
 {
   "icaoCode": "A19N",
+  "takeoffV2Ias": 135,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 450,
   "cruiseCeiling": 39000,
-  "maximumRange": 3750
+  "maximumRange": 3750,
+  "descentToFL100Rate": 3000,
+  "landingVatIas": 130
 }

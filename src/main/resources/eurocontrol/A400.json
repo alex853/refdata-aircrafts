@@ -1,6 +1,10 @@
 {
   "icaoCode": "A400",
+  "takeoffV2Ias": 120,
+  "climbToFL240Rate": 1500,
   "cruiseTas": 422,
   "cruiseCeiling": 40000,
-  "maximumRange": 1800
+  "maximumRange": 1800,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 130
 }

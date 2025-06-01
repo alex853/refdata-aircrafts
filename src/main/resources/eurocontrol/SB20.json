@@ -1,6 +1,10 @@
 {
   "icaoCode": "SB20",
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 1300,
   "cruiseTas": 360,
   "cruiseCeiling": 31000,
-  "maximumRange": 1200
+  "maximumRange": 1200,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 110
 }

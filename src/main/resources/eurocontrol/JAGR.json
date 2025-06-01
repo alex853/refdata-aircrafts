@@ -1,6 +1,10 @@
 {
   "icaoCode": "JAGR",
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 13000,
   "cruiseTas": 480,
   "cruiseCeiling": 45000,
-  "maximumRange": 1400
+  "maximumRange": 1400,
+  "descentToFL100Rate": 10000,
+  "landingVatIas": 148
 }

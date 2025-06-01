@@ -1,6 +1,8 @@
 {
   "icaoCode": "C172",
+  "takeoffV2Ias": 60,
   "cruiseTas": 115,
   "cruiseCeiling": 13000,
-  "maximumRange": 430
+  "maximumRange": 430,
+  "landingVatIas": 65
 }

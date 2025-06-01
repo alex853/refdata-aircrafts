@@ -1,6 +1,10 @@
 {
   "icaoCode": "MRF1",
+  "takeoffV2Ias": 140,
+  "climbToFL240Rate": 20000,
   "cruiseTas": 525,
   "cruiseCeiling": 66000,
-  "maximumRange": 1000
+  "maximumRange": 1000,
+  "descentToFL100Rate": 10000,
+  "landingVatIas": 145
 }

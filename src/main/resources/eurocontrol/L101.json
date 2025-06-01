@@ -1,6 +1,10 @@
 {
   "icaoCode": "L101",
+  "takeoffV2Ias": 150,
+  "climbToFL240Rate": 1200,
   "cruiseTas": 485,
   "cruiseCeiling": 36000,
-  "maximumRange": 4600
+  "maximumRange": 4600,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 140
 }

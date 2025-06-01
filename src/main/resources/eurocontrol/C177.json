@@ -1,6 +1,8 @@
 {
   "icaoCode": "C177",
+  "takeoffV2Ias": 65,
   "cruiseTas": 115,
   "cruiseCeiling": 12000,
-  "maximumRange": 590
+  "maximumRange": 590,
+  "landingVatIas": 65
 }
