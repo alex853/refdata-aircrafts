@@ -1,6 +1,10 @@
 {
   "icaoCode": "C700",
+  "takeoffV2Ias": 130,
+  "climbToFL240Rate": 2500,
   "cruiseTas": 483,
   "cruiseCeiling": 43000,
-  "maximumRange": 3500
+  "maximumRange": 3500,
+  "descentToFL100Rate": 2000,
+  "landingVatIas": 115
 }
