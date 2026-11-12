@@ -1,0 +1,18 @@
+{
+  "icaoCode": "GA8C",
+  "manufacturer": "Gulfstream",
+  "model": "G800",
+  "doc8643type": "L2J",
+  "approachCategory": "C",
+  "wakeTurbulenceCategory": "M",
+  "mtow": 45000,
+  "takeoffDistance": 1800,
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 2500,
+  "cruiseTas": 488,
+  "cruiseCeiling": 51000,
+  "maximumRange": 8000,
+  "descentToFL100Rate": 2500,
+  "landingVatIas": 140,
+  "landingDistance": 920
+}

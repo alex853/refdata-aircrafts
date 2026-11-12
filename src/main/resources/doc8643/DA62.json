@@ -1,5 +1,18 @@
 {
   "icaoCode": "DA62",
+  "manufacturer": "Diamond",
+  "model": "DA62",
+  "doc8643type": "L2P",
+  "approachCategory": "A",
+  "wakeTurbulenceCategory": "L",
+  "mtow": 2300,
+  "takeoffDistance": 880,
+  "takeoffV2Ias": 78,
+  "climbToFL240Rate": 1000,
   "cruiseTas": 185,
-  "cruiseCeiling": 12000
+  "cruiseCeiling": 12000,
+  "maximumRange": 1288,
+  "descentToFL100Rate": 700,
+  "landingVatIas": 68,
+  "landingDistance": 780
 }

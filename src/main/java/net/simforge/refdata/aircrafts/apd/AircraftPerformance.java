@@ -10,6 +10,11 @@ import net.simforge.atmosphere.Airspeed;
 @Builder
 public class AircraftPerformance {
     private String icaoCode;
+    private String manufacturer;
+    private String model;
+    private String doc8643type;
+    private Integer mtow;
+    private Integer takeoffDistance;
     private Integer takeoffV2Ias;
     private Integer climbToFL240Rate;
     private Integer cruiseTas;
@@ -17,6 +22,7 @@ public class AircraftPerformance {
     private Integer maximumRange;
     private Integer descentToFL100Rate;
     private Integer landingVatIas;
+    private Integer landingDistance;
 
     public Integer getCruiseIasAtCruiseCeiling() {
         if (cruiseTas == null || cruiseCeiling == null) {

@@ -1,6 +1,18 @@
 {
   "icaoCode": "B721",
+  "manufacturer": "Boeing",
+  "model": "727-100",
+  "doc8643type": "L3J",
+  "approachCategory": "C",
+  "wakeTurbulenceCategory": "M",
+  "mtow": 83000,
+  "takeoffDistance": 3033,
+  "takeoffV2Ias": 145,
+  "climbToFL240Rate": 2000,
   "cruiseTas": 470,
   "cruiseCeiling": 36100,
-  "maximumRange": 2150
+  "maximumRange": 2150,
+  "descentToFL100Rate": 3500,
+  "landingVatIas": 133,
+  "landingDistance": 1494
 }

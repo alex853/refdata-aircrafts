@@ -1,10 +1,18 @@
 {
   "icaoCode": "GLF3",
+  "manufacturer": "Gulfstream",
+  "model": "Gulfstream III",
+  "doc8643type": "L2J",
+  "approachCategory": "C",
+  "wakeTurbulenceCategory": "M",
+  "mtow": 31600,
+  "takeoffDistance": 1554,
   "takeoffV2Ias": 145,
   "climbToFL240Rate": 2000,
   "cruiseTas": 450,
   "cruiseCeiling": 45000,
   "maximumRange": 4300,
   "descentToFL100Rate": 2500,
-  "landingVatIas": 135
+  "landingVatIas": 135,
+  "landingDistance": 975
 }

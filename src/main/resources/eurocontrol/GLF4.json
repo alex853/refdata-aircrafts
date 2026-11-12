@@ -1,10 +1,18 @@
 {
   "icaoCode": "GLF4",
+  "manufacturer": "Gulfstream",
+  "model": "Gulfstream IV",
+  "doc8643type": "L2J",
+  "approachCategory": "C",
+  "wakeTurbulenceCategory": "M",
+  "mtow": 33200,
+  "takeoffDistance": 1662,
   "takeoffV2Ias": 145,
   "climbToFL240Rate": 2500,
   "cruiseTas": 450,
   "cruiseCeiling": 45000,
   "maximumRange": 4600,
   "descentToFL100Rate": 2500,
-  "landingVatIas": 140
+  "landingVatIas": 140,
+  "landingDistance": 1032
 }

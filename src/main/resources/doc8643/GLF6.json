@@ -1,10 +1,18 @@
 {
   "icaoCode": "GLF6",
+  "manufacturer": "Gulfstream",
+  "model": "G650",
+  "doc8643type": "L2J",
+  "approachCategory": "C",
+  "wakeTurbulenceCategory": "M",
+  "mtow": 45200,
+  "takeoffDistance": 1829,
   "takeoffV2Ias": 145,
   "climbToFL240Rate": 2500,
   "cruiseTas": 488,
   "cruiseCeiling": 51000,
-  "maximumRange": 6200,
+  "maximumRange": 7000,
   "descentToFL100Rate": 2500,
-  "landingVatIas": 140
+  "landingVatIas": 140,
+  "landingDistance": 914
 }

@@ -1,6 +1,18 @@
 {
   "icaoCode": "C510",
+  "manufacturer": "Cessna",
+  "model": "510 Citation Mustang",
+  "doc8643type": "L2J",
+  "approachCategory": "B",
+  "wakeTurbulenceCategory": "L",
+  "mtow": 3900,
+  "takeoffDistance": 950,
+  "takeoffV2Ias": 110,
+  "climbToFL240Rate": 3000,
   "cruiseTas": 340,
   "cruiseCeiling": 35000,
-  "maximumRange": 1340
+  "maximumRange": 1340,
+  "descentToFL100Rate": 1500,
+  "landingVatIas": 95,
+  "landingDistance": 730
 }

@@ -1,0 +1,18 @@
+{
+  "icaoCode": "FA8X",
+  "manufacturer": "Dassault",
+  "model": "Falcon 8X",
+  "doc8643type": "L3J",
+  "approachCategory": "B",
+  "wakeTurbulenceCategory": "M",
+  "mtow": 33100,
+  "takeoffDistance": 1830,
+  "takeoffV2Ias": 125,
+  "climbToFL240Rate": 2500,
+  "cruiseTas": 470,
+  "cruiseCeiling": 45000,
+  "maximumRange": 6400,
+  "descentToFL100Rate": 2200,
+  "landingVatIas": 107,
+  "landingDistance": 650
+}

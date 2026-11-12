@@ -1,10 +1,18 @@
 {
   "icaoCode": "GA7C",
+  "manufacturer": "Gulfstream",
+  "model": "G700",
+  "doc8643type": "L2J",
+  "approachCategory": "C",
+  "wakeTurbulenceCategory": "M",
+  "mtow": 48800,
+  "takeoffDistance": 1900,
   "takeoffV2Ias": 145,
   "climbToFL240Rate": 2500,
   "cruiseTas": 488,
   "cruiseCeiling": 51000,
   "maximumRange": 7500,
   "descentToFL100Rate": 2500,
-  "landingVatIas": 140
+  "landingVatIas": 140,
+  "landingDistance": 960
 }
